@@ -14,8 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: null,
     locale: "en-US",
-    // Update this to your Cloudflare Pages URL once Cloudflare is set up
-    baseUrl: "storm-kings-thunder.pages.dev",
+    baseUrl: "wiki-77o.pages.dev",
     ignorePatterns: [".obsidian"],
     defaultDateType: "modified",
     theme: {
