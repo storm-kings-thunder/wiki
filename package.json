@@ -17,7 +17,9 @@
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",
-    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1"
+    "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
+    "deploy": "npx quartz build && wrangler deploy",
+    "preview": "npx quartz build && wrangler dev"
   },
   "engines": {
     "npm": ">=10.9.2",
@@ -109,6 +111,7 @@
     "esbuild": "^0.27.3",
     "prettier": "^3.8.3",
     "tsx": "^4.21.0",
-    "typescript": "^6.0.2"
+    "typescript": "^6.0.2",
+    "wrangler": "^4.83.0"
   }
 }
