@@ -1,3 +1,29 @@
 @use "./base.scss";
 
-// put your custom CSS here!
+// Slightly larger body text — Crimson Pro is a print-oriented serif and
+// benefits from being a touch bigger on screen for comfortable reading.
+article p,
+article li,
+article td {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+// D&D-style blockquotes — left accent bar, like sidebar boxes in the sourcebooks.
+blockquote {
+  border-left: 3px solid var(--secondary);
+  background: var(--highlight);
+  border-radius: 0 4px 4px 0;
+  padding: 0.6em 1em;
+  margin: 1.2em 0;
+
+  p {
+    margin: 0;
+  }
+}
+
+// Keep Cinzel headings from feeling too tight — the font's tracking benefits
+// from a touch of extra letter-spacing at larger sizes.
+h1, h2 {
+  letter-spacing: 0.03em;
+}
