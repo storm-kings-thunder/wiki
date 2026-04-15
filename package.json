@@ -18,8 +18,8 @@
     "format": "npx prettier . --write",
     "test": "tsx --test",
     "profile": "0x -D prof ./quartz/bootstrap-cli.mjs build --concurrency=1",
-    "deploy": "wrangler deploy",
-    "preview": "wrangler dev"
+    "deploy": "npx quartz build && wrangler deploy",
+    "preview": "npx quartz build && wrangler dev"
   },
   "engines": {
     "npm": ">=10.9.2",
