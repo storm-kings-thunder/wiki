@@ -1,0 +1,1 @@
+Legendary archmage and apostate of [[Kelemvor, God of the Dead|Kelemvor]]

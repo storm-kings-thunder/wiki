@@ -1,0 +1,1 @@
+Hiroyashi is a friend of [[Korosu]] and an assassin from the [[Orient]], sent to assist in the elimination of the blood mage [[Mortimer]].

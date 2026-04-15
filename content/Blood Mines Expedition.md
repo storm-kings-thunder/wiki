@@ -1,0 +1,1 @@
+Expedition led by the [[Seekers]], some gladiators and the [[Lords of Calimsharn]] to the [[Blood Mines]] in order to destroy the heart of the [[God of the Desert]] and its spreading corruption.

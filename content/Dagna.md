@@ -1,0 +1,1 @@
+A halfling who served food during the formal dinner at the [[Luminous Cloud Citadel]].

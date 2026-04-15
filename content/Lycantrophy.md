@@ -1,0 +1,1 @@
+Condition affecting some people

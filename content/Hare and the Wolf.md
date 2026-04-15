@@ -1,0 +1,1 @@
+The Hare and the Wolf is essentially the only tavern in [[Calimsharn]]'s outer district. The food, building, and patrons are subpar, but residents of this district have little choice in establishments. The owner is a male halfling named [[Hopin]].

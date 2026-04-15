@@ -1,0 +1,4 @@
+
+The first child of the [[Margaster Family]], abandoned at birth when the [[Margaster Family|Margasters]] still retained a shred of conscience.
+Raised as an orphan on the streets, Egan became a cunning fighter and later a pawn in his parents’ schemes. The [[Margaster Family|Margasters]] fabricated his reputation through deception and the influence of the [[Black Talon]], using him to infiltrate the [[Order of the Golden Lion]].
+When the truth of his lineage and false heroism was revealed during the [[Tournament of Waterdeep]], Egan turned against his family and fought to protect his younger brother [[Willow Margaster|Willow]] from [[Xamlyn Margaster|Xamlyn]] and [[Alaeros Margaster|Alaeros]].

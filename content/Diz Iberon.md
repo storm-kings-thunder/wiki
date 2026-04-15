@@ -1,0 +1,1 @@
+[[Elminster]]’s current apprentice, who spent most of his apprenticeship performing menial tasks rather than studying magic. Despite this, he proved himself capable by defeating a weakened [[Solomon Pyllartes|Solomon]] during the Spellcasting Phase of the [[Tournament of Waterdeep]].

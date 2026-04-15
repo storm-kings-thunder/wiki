@@ -1,0 +1,1 @@
+A servant of the [[Lord of Slaves]], formerly the fiend of the [[Master of the Arena]]. 

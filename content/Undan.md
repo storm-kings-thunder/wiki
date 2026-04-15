@@ -1,0 +1,1 @@
+Dwarf acting as the representative of the [[Lords of Calimsharn]] in the [[Arena]]'s Floor of Gladiators

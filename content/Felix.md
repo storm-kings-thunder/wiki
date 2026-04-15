@@ -1,0 +1,1 @@
+A powerful arcane construct built by the mercenary dwarven clan [[Hexhammer Clan]]. It had been programmed to attack the tournament so that [[Sir Egan]], wielding rust monster antenna swords, could theatrically “defeat” it before the crowd.

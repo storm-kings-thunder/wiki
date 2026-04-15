@@ -1,0 +1,1 @@
+A lake on whose shining shores the elven village of [[Alkai Tor]] stands. The village's granite tor rises about twenty feet above the surrounding cliff and thirty feet above the lake's surface. Beneath the lake, a coven of three hags served as thralls of the illithid [[Karahl-Guhl]] until his defeat.

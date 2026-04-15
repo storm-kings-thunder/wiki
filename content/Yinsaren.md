@@ -1,0 +1,1 @@
+A powerful swordman. Survivor of the [[Enclave of Kelemvor]]

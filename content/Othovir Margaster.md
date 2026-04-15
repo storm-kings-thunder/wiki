@@ -1,0 +1,3 @@
+The second child of the [[Margaster Family]], who fled the family after witnessing the sacrifice of their third sibling. He renounced the Margaster name and became a leatherworker in [[Triboar]], living a quiet, honest life. During the Calamity invasion, Othovir sacrificed himself to save [[Willow Margaster|Willow]], his younger brother.
+
+His death became the second sacrifice fueling the summoning of the [[Four Kings]]

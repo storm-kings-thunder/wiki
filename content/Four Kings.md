@@ -1,0 +1,3 @@
+Not much is known about the origins of the Four Kings, except a single obscure tale told in certain noble families. The tale describes four kings, each ruling a powerful empire that fell into war and infighting by the influence of a mysterious entity due to fear and ignorance.
+ 
+Apparently, they did exist, as the [[Margaster Family|Margasters]] utilized the souls of their sacrifices to summon the shades of the Four Kings into the real world. Fortunately, those were defeated by the [[Seekers]] and their allies.

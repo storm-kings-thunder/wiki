@@ -1,0 +1,1 @@
+The legacy weapon wielded by [[Ellora Oak]]

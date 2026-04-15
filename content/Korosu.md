@@ -1,0 +1,1 @@
+Korosu is a former member of the [[Seekers]].

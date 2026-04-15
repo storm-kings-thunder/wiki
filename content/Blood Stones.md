@@ -1,0 +1,1 @@
+Gems found inside the [[Blood Mines]]. They are the blood of the [[God of the Desert]] itself. 

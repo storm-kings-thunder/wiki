@@ -1,0 +1,1 @@
+The Great Serpent is a colossal creature, a terror comparable to the [[Doom of the Desert]]. It emerges from the sands only every few months or years to feed, and when it does, shockwaves spread through the desert due to its immense size.

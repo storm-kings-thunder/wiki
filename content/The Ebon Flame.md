@@ -1,0 +1,1 @@
+The reason described in the texts as to why the [[Empire of Narthezeem]] fell

@@ -1,0 +1,3 @@
+The main domain of the [[Lady of Blood]] in [[Calimsharn]].
+
+Here, she uses her unique aspect of [[Truespeech]] to cure most diseases in the city and to remove mutations from those afflicted by the [[Red Plague|Blood Plague]]. The building consists of three floors, with the third accessible only to the Lady, her "son" [[Ankhor]], and its former inhabitants who escaped to the mines after being massacred.

@@ -1,0 +1,1 @@
+According to her own claims, she is [[Elminster]]’s foster mother. Whether this is true or merely a delusion remains uncertain.

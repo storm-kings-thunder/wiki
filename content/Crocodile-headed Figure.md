@@ -1,0 +1,1 @@
+Seen when the [[Emerald Tablet]] was moved from the [[Temple of Narthezeem]]

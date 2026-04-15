@@ -1,0 +1,1 @@
+A skilled gladiator in the [[Arena]] and former military commander from the [[Orient]]. After his capture by slavers brought him dishonor, he abandoned his name. Now serving as his team's tactician, he demonstrates exceptional horsemanship, often investing his Arena points in new mounts to gain tactical advantages in combat.

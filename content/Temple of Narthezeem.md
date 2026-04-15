@@ -1,0 +1,1 @@
+Explored by the [[Seekers]]. Hosts the [[Emerald Tablet]] and [[Alkhazir]]. It is currently destroyed.

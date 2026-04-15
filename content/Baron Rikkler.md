@@ -1,0 +1,1 @@
+A noble visiting [[Neverwinter]] in 1486 DR. He was the assassination target of [[Don Tigre]]'s clan, who sent the [[Killer Clowns of Waterdeep]] to eliminate him — a killing intended to provoke a war between [[Bryn Shander]] and Neverwinter. The assassination failed when the [[Seekers]] intervened.

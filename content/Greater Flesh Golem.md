@@ -1,0 +1,1 @@
+The [[Margaster Family|Margasters]]' most prized creation, the Greater Flesh Golem, is a creature of flesh that almost perfectly mimics the original person from whom it was cloned.

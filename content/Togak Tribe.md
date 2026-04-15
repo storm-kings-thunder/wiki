@@ -1,0 +1,1 @@
+The tribe where [[Ougigoth Togak|Nog]] comes from

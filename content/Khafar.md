@@ -1,0 +1,1 @@
+Khafar is a mummy lord who ruled a grand nation before its fall 5,000 years ago.

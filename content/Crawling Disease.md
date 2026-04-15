@@ -1,0 +1,1 @@
+An enormous serpent that roams the desert, spreading death and disease in its wake. Last it was seen, it attempted to swallow [[Gorm]].

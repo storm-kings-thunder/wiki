@@ -1,0 +1,1 @@
+A kind of magic that the [[Lords of Calimsharn]] possess, likely gifted by [[Father Rogers]] in exchange for their souls.

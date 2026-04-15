@@ -1,0 +1,1 @@
+[[Extradimensional Mansion]]'s previous owner. He was abusive and despicable.

@@ -1,0 +1,1 @@
+The cult worshipping the [[Kraken]].

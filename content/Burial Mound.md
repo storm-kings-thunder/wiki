@@ -1,0 +1,1 @@
+One of the ruins of the [[Empire of Khafar]], formerly a graveyard. Despite its age, the burial urns are kept in pristine condition by a mysterious entity that watches over the site.

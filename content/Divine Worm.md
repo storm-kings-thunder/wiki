@@ -1,0 +1,1 @@
+A half-elf sent by [[Lord of Science|Doctor Craven]] who transformed into a cosmic aberration, fighting against the party with the aid of an [[Erdanis]]-possessed [[Connor Lycanmor]].

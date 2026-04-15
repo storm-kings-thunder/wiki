@@ -1,0 +1,1 @@
+A rival monk of [[Zenvalros]] who joined the [[Black Talon]] in hopes of taking revenge on him. Powered by a magical artifact, he caused the tavern to burn as he was incinerated by its power.

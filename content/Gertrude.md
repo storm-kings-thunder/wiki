@@ -1,0 +1,1 @@
+A hag that infiltrated the [[Monthartas]] Mansion

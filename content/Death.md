@@ -1,0 +1,1 @@
+A mysterious entity embodying the very personification of death. They that made a pact with [[Zenvalros]] when he died against [[Grothgar]], resurrecting him with greater power in return for being able to possess [[Zenvalros]] for a single minute in the future.

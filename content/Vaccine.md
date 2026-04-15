@@ -1,0 +1,1 @@
+Developed by the [[Lord of Science]] to cure the [[Red Plague|Blood Plague]]. Suddenly, it seemed to have stopped working.

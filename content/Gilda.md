@@ -1,0 +1,1 @@
+Gilda is the assistant to [[Lord of Gold|Zafeeq el Jafar]] in the [[Dusty Talisman]].

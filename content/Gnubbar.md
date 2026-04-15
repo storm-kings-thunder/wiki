@@ -1,0 +1,1 @@
+A gnome and ally of the [[Seekers]]. In 1486 DR, he was killed and brutalized by [[Grothgar]] during the orc's massacre in [[Neverwinter]]. The [[Seekers]] carried his body to the [[Neverdeath Graveyard]], where he was buried by [[Old Morty]].

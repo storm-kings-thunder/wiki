@@ -1,0 +1,7 @@
+![[Zephyros.png]]
+
+Zephyros is an eccentric cloud giant wizard specializing in Divination, who is very open-minded in regards to the "small folk". 
+
+For fifty years, he studied the Moonshae Isles. In 1485 DR, after the Shattering of the [[Giant Ordning|Ordning]], Zephyros started working to find a solution for this crisis using the Contact Other Plane spell. This eventually led him to [[Nightstone]] village just after some others Cloud Giants had bombarded the place. Zephyros was instructed by a Planar Sphere creature that an adventuring party he would find there could reconstruct the [[Giant Ordning|Ordning]] and, just as [[Prophecy]] had predicted, he found the founding member of what would eventually be [[Seekers]]. After they saved the villagers in Nightstone and decided to go north to [[Bryn Shander]], Zephyros decided to offer them a faster trip in his [[Zephyros' Tower]], allowing them to finish the trip in 26 days. During the trip, Zephyros eventually told them of [[Prophecy]] he saw and asked the adventurers to attempt to fix the broken [[Giant Ordning|Ordning]]. When he once again travelled to meet them on the road to [[Neverwinter]], he told them additional information about [[Prophecy]]. 
+
+Shortly after offering the [[Seekers]] a shortcut from Neverwinter to [[Longsaddle]], Zephyros' current location is unknown.

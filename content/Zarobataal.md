@@ -1,0 +1,1 @@
+A shark demonlord summoned by the [[Kraken Society]]

@@ -1,0 +1,1 @@
+A magic ring that renders its wearer invisible. It belonged to [[Meredin]], the drow illusionist of the [[Order of the Purple Robes]], who used it to move unseen through the [[Luminous Cloud Citadel]] during the confrontation with [[Eszteban, the Magnificent]]. After Meredin was arrested, the [[Seekers]] took possession of the ring.

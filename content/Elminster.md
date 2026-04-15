@@ -1,0 +1,3 @@
+Elminster is a carefree demigod of the goddess of magic [[Mystra, God of Magic]] with some disturbing tendencies of committing not-so-harmless pranks on others. During a party he hosted in 1486 DR, his rival [[Pathos Gloomblight]] managed to trap him in a gem with the magic mouth spell, the only spell that [[Elminster]] hadn't learned. Thankfully, the [[Seekers]] managed to put his soul back in his body and, as a way to repay them, he assisted them against the [[Margaster Family|Margasters]] and the [[Four Kings]].
+
+Owns [[Elminster Demiplane]]

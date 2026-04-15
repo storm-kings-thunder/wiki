@@ -1,0 +1,1 @@
+A former lover of [[Elminster]] and a skilled assassin. Secretly, she had been sent by the [[Margaster Family|Margasters]] to assassinate [[Willow Margaster|Willow]] shortly after her arrival in [[Waterdeep]].

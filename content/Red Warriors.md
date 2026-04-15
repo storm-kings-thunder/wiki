@@ -1,0 +1,1 @@
+A small, elite force of bizarrely similar creatures who possess some resemblance to Tieflings. They are considered the officials of [[Calimsharn]]'s army

@@ -1,0 +1,1 @@
+[[Kraken Society]] member. Manipulated events in [[Yartar]] and used [[Lady Atalia]] as a scapegoat when nobles began disappearing and being kidnapped and mind-controlled.

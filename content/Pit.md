@@ -1,0 +1,1 @@
+Located in [[Calimsharn]] north of the [[Blood Mines]] and beneath the [[Arena]], the Pit is a bottomless chasm roughly 200 feet across from which horrific, mutated abominations occasionally emerge. The [[Blood Mines]] maintain nearly a hundred guards on constant watch to eliminate anything that escapes.

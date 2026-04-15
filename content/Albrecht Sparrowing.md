@@ -1,0 +1,1 @@
+A noble lord of [[Waterdeep]]. [[Ulrach, the Grand Illusionist|Ulrach]] impersonated his grandson

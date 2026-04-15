@@ -1,0 +1,1 @@
+The Prisoners' Carnival was [[Luskan, the City of Sails]]'s court of justice, although in reality it was just a public spectacle of torture and execution. It was located in the most public part of town: the Market. It also held an arena, where duels to the death were organized by [[Pirate Lords]].

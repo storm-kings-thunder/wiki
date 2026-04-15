@@ -1,0 +1,1 @@
+A magical sword wielded by [[Morrigan Volderak|Morrigan]] 

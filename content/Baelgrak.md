@@ -1,0 +1,3 @@
+A bronze dragonborn of the [[Order of the Purple Robes]] specializing in abjuration.
+
+During the [[Luminous Cloud Citadel|Citadel]] crisis, he argued that the [[Order of the Purple Robes]] was on the wrong path, defended [[Eszteban, the Magnificent|Eszteban]] as someone who had done much for the order, and suggested [[Eszteban, the Magnificent|Eszteban]]'s priorities changed after an unknown discovery.

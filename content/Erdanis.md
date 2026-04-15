@@ -1,0 +1,3 @@
+An elf who lived 600 years ago, Erdanis led the research at the [[Tower that found the Truth]] before succumbing to madness.
+
+He locked himself in his quarters and began to envision terrible aberrations from the stars. Eventually, he died of starvation, but his spirit transformed into an aberration made of worms. In this form, he massacred the other researchers and turned them into aberrations as well.

@@ -1,0 +1,1 @@
+Five ancient relics of Giantkind must be reunited to learn how to restore the [[Giant Ordning|Ordning]]. The [[Seekers]] currently possess four of them.

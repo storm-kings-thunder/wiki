@@ -1,0 +1,1 @@
+A powerful artifact used by [[Ulrach, the Grand Illusionist|Ulrach]]
