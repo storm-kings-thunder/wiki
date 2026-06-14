@@ -1,0 +1,3 @@
+Former master of [[Zenvalros]]'s monastic order in [[Neverwinter]]. He visited the four-elements training monastery where [[Shan]] trains before departing abruptly, claiming he needed to go to the mountains. He asked questions about what happens when a mental connection is forced.
+
+Those who knew him describe a desperate man seized by absolute resolve — intent on transforming himself into a tool, and seemingly willing to pay whatever price that required. Some suspect he went mad; others believe he found something that terrified him. His current whereabouts are unknown.

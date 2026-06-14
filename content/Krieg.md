@@ -6,4 +6,8 @@ In 1486 DR, he managed to lead a small group to prevent the [[Seekers]]' deaths 
 
 As of now, a schism has formed within the clan, with Krieg leading greater numbers in more violent attacks against the [[Pirate Lords]] while [[Don Tigre]] attempts to maintain stability. Only the respect that the two leaders hold for each other prevents an actual inner war.
 
+Krieg's hatred of the [[Pirate Lords]] is tied to his family having been enslaved by them. He claims the recent failed raid was meant to decapitate the Pirate Lords' leadership and would have succeeded, but a communication failure led [[Don Tigre]] to order a withdrawal.
+
+He now trains a new generation of soldiers equipped with strong weapons and alchemical products created by [[Razzles]]. Krieg believes the [[Red Wizards of Thay]] intend to control [[Luskan, the city of Sails|Luskan]]'s council, but still sees the [[Pirate Lords]]' slavery and brutality as the central evil.
+
 Human Illuskan male. Alignment: Chaotic Neutral.

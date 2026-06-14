@@ -1,0 +1,1 @@
+A pair of bracers won by [[Zenvalros]] in a duel with a rival in his former monastic order. [[Shan]] observed that the bracers are opening a door that most practitioners of elemental arts do not know exists, and that they are connected to Zenvalros's unusual, instinctive relationship with the elements rather than a learned imitation of them.

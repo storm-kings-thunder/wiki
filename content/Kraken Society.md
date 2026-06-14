@@ -1,1 +1,1 @@
-A secretive cult devoted to the [[Kraken]].
+The cult worshipping the [[Kraken]].

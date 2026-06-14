@@ -4,10 +4,13 @@ Known members include [[Magister Lavinia Brightswan|Levinia]], [[Baelgrak]], [[H
 
 During the crisis at the [[Luminous Cloud Citadel]], internal rivalry among the mages became evident.
 
-[[Magister Lavinia Brightswan]] asked the [[Seekers]] to convince [[Eszteban, the Magnificent]] to rejoin the order and, above all, to recover the [[Great Discoveries]]. In exchange, the party was offered rights to keep anything found in the tower except the discoveries themselves.
+[[Magister Lavinia Brightswan]] asked the [[Seekers]] to convince [[Eszteban, the Magnificent]] to rejoin the order and, above all, to recover the [[Discoveries]]. In exchange, the party was offered rights to keep anything found in the tower except the discoveries themselves.
 
 The order also allowed an associated-member arrangement to share spell knowledge and access the discoveries under its rules.
 
 Following the death of [[Eszteban, the Magnificent|Eszteban]] and the arrest of [[Meredin]], the order dissolved its single-leader structure and established a council to govern collectively. [[Meredin]] was imprisoned pending the council's decision on his fate.
 
-The party was granted ongoing access to the tower's library: they may visit to research scrolls and study the [[Great Discoveries]], request magical components, and study spells — but must share any new spells they create. Teleportation circles in the library allow direct access.
+The party was granted ongoing access to the tower's library: they may visit to research scrolls and study the [[Discoveries]], request magical components, and study spells — but must share any new spells they create. Teleportation circles in the library allow direct access.
+The order has begun negotiations with the [[Arcane Academy]] in [[Silverymoon]] over a formal institutional partnership.
+
+The active [[Seekers]] regrouped at the Order's tower to plan their return to [[Luskan, the city of Sails|Luskan]], intending to use a teleportation circle in a warehouse outside the city.

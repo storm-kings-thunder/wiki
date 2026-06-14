@@ -16,4 +16,6 @@ Rogers deems to "know all things", including having known the presence of [[God 
 
 He gave the [[Lords of Calimsharn]] the gift of [[Truespeech]].
 
+[[Razzles]] believes Father Rogers may be an avatar or projection of an archfiend, possibly an ancient [[Netheril|Netherese]] vizier. He also believes Rogers intends to make [[Red, the Kid|Red]] into an archfiend, but remains bound by infernal rules and by the terms of his pacts.
+
 He also appeared in [[Meredin]]'s dreams and provided him with a poison to administer to [[Eszteban, the Magnificent|Eszteban]], claiming it would merely weaken him. The poison was both physical and mental, responsible for Eszteban's prolonged paranoia and decline. [[Red, the Kid|Red]] shared this information with the [[Order of the Purple Robes]] council, which resolved to strengthen its defenses against mental influence.

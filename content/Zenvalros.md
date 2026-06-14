@@ -1,1 +1,3 @@
-Member of the [[Seekers]]
+Member of the [[Seekers]]. Former member of a monastic order in [[Neverwinter]] under [[Master Amon]], which he left after disagreeing with its ideals; he won his [[Volcanic Bracers]] in a duel with a rival and later fought Master Amon himself.
+
+He recently unlocked the Way of the Four Elements monk subclass. [[Shan]], a practitioner he met at a four-elements training monastery, told him he does not merely imitate the elements — he is them — and that the Volcanic Bracers are opening a door most people do not know exists. She warned he may cross a line.

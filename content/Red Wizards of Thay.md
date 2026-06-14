@@ -4,7 +4,9 @@ aliases:
 ---
 An evil arcane faction active in northern politics. Their goal is to conduct arcane experiments and accumulate power; they seize control of civilizations to use them as laboratories rather than out of conquest for its own sake.
 
-In recent [[Luskan, the city of Sails|Luskan]] events, they established anti-scrying barriers over the city.
+In recent [[Luskan, the city of Sails|Luskan]] events, they established anti-scrying barriers over the city. They also sent a Tarkion to Luskan, though the purpose of this deployment is unknown.
+
+They now control most of [[Luskan, the city of Sails|Luskan]] and appear to be testing a colonial model of control rather than pursuing simple conquest. Their administrative tunnel network has weak points, and their diviners are believed to be based in a central tower.
 
 ## Organization
 

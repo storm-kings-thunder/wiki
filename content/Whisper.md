@@ -1,0 +1,3 @@
+Whisper is a drow woman who runs a shop in [[Black Market|Luskan's Black Market]] and appears under a magical disguise. She recognizes [[Zenvalros]] as an arena champion and claims to be an ally of the [[Seekers]].
+
+She gave the group a map of the [[Red Wizards of Thay|Red Wizards]]' administrative network in [[Luskan, the city of Sails|Luskan]], including weak points in the tunnels and the likely tower where their diviners are based. To prove trust, she asked the [[Seekers]] to travel to [[Illusk]] and retrieve either an indisposed old friend from a surface tower or the golden earring from that friend's left ear.

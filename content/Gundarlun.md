@@ -1,0 +1,1 @@
+An island nation associated with the [[Lords Alliance]], located off the northern Sword Coast. While major coastal cities turn their attention inward, Gundarlun is actively engaging pirates at sea and represents one of the few organized responses to the maritime threat identified by [[Inquisitor Valerius]].

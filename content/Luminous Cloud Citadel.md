@@ -20,16 +20,16 @@ Before the party entered the upper levels, [[Magister Lavinia Brightswan|Lavinia
 
 **Room 3 / Split Corridors** — A plaque reads: _"Follow the left or right path to reach the end. A metal door here will help you go up."_ The left corridor glowed blue and the right glowed red.
 
-- **Left corridor** — Descends into extreme cold and a blizzard. The body of [[Valkus Skyrgela]] was found here, dead approximately one week, clutching a magical +1 defensive Quarterstaff in the style of the [[Order of the Purple Robes|order's]] wizards and a dagger with a broken tip. Before dying, he had written _"Metal plaque"_ on the wall.
+- **Left corridor** — Descends into extreme cold and a blizzard. The body of [[Valkas Skyrgela]] was found here, dead approximately one week, clutching a magical +1 defensive Quarterstaff in the style of the [[Order of the Purple Robes|order's]] wizards and a dagger with a broken tip. Before dying, he had written _"Metal plaque"_ on the wall.
 - **Right corridor** — Grows increasingly hot; the red torch gives way to green light.
 
 Behind the original metal plaque in the beginning of the split there is a portal with a staircase that leads further up.
 
 **Obi diu Diva** — An eccentric genie from the Plane of Fire, stationed as a guardian by [[Eszteban, the Magnificent|Eszteban]] under a decade-long contract. He presented himself as a chess grandmaster and offered the party either a drinking challenge or a chess match. Visibly bored with his post, he was dismissed when the party used Banishment to send him back to his plane.
 
-**Gallery and Research Room** — Portraits of the tower's five mages line the walls, including [[Magister Lavinia Brightswan|Lavinia]] (depicted without the black mask and burns she currently bears), [[Valkus Skyrgela]], and [[Eszteban, the Magnificent|Eszteban]] (old and severe in expression). The room also contains stuffed birds and reptiles mounted on the walls, tomes, potions, and a large divination orb on a golden tripod.
+**Gallery and Research Room** — Portraits of the tower's five mages line the walls, including [[Magister Lavinia Brightswan|Lavinia]] (depicted without the black mask and burns she currently bears), [[Valkas Skyrgela]], and [[Eszteban, the Magnificent|Eszteban]] (old and severe in expression). The room also contains stuffed birds and reptiles mounted on the walls, tomes, potions, and a large divination orb on a golden tripod.
 
-A fake copy of the _[[Great Discoveries]]_ was present and proved to be an acid trap with no useful content inside. Several scrolls were also found in the room: **Comprehend Languages**, **Knock**, and **Blur**. A chest contained **2500 GP** and a key.
+A fake copy of the _[[Discoveries]]_ was present and proved to be an acid trap with no useful content inside. Several scrolls were also found in the room: **Comprehend Languages**, **Knock**, and **Blur**. A chest contained **2500 GP** and a key.
 
 [[Seraphina]] looked into the divination orb and experienced a series of visions — see her page for details.
 
@@ -39,7 +39,7 @@ A fake copy of the _[[Great Discoveries]]_ was present and proved to be an acid 
 
 The room's music induced magical sleep. During the dream, a demon-like minotaur creature appeared in ruins; an engraving of a moon in an unknown language formed a puzzle. Touching the moon three times caused a stone platform to rise, lifting the party into the upper library.
 
-**Upper Library** — Contains multiple bookshelves, a table with potions and alchemical equipment. This is where the true [[Great Discoveries]] are housed. It was also where [[Eszteban, the Magnificent|Eszteban]] was found, and where [[Meredin]] revealed himself and killed Eszteban.
+**Upper Library** — Contains multiple bookshelves, a table with potions and alchemical equipment. This is where the true [[Discoveries]] are housed. It was also where [[Eszteban, the Magnificent|Eszteban]] was found, and where [[Meredin]] revealed himself and killed Eszteban.
 
 ## Resolution
 

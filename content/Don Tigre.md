@@ -19,3 +19,7 @@ When Don Tigre found out about a possible ambush by the [[Pirate Lords]]' assass
 As of 1486 DR, Don Tigre is struggling to maintain control over the clan due to ideological differences with Krieg. The clan is also suffering from tense diplomatic relations caused by various meddling incidents, including groups of clan bandits infiltrating [[Bryn Shander]] and [[Waterdeep]] at Redd the Kidd's behest.
 
 It is unknown whether he sent the group of assassins disguised as a circus troupe to attempt to kill Baron Rikkler, which would provoke a war between [[Bryn Shander]] and [[Neverwinter]].
+
+After the [[Seekers]] returned to [[Luskan, the city of Sails|Luskan]], Don Tigre admitted that open war against the [[Red Wizards of Thay]] would annihilate his clan. He believes [[Krieg]] sees him as weak, but still wants to avoid involving the surviving [[Pirate Lords]] directly; he has also sent agents to the [[Zhentarim]] to arrange a meeting.
+
+Don Tigre told [[Red, the Kid|Red]] that he was meant to be a sacrifice before Tigre saved him, and suspects Red descends from a powerful fiend of the [[Nine Hells]].

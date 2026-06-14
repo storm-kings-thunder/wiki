@@ -9,7 +9,6 @@ The Blacklake District is the northern district of [[Neverwinter]], named after 
 
 **Hallowed Temple of Selûne**
 - Temple of Selûne with a small but capable membership, able to remove most curses.
-- In 1486 DR, a ritual was attempted here to remove the Kraken's curse afflicting Leor, a member of [[Seekers]].
 
 **Beached Leviathan**
 - A tavern built inside a shipwrecked vessel that ran aground before the Docks were rebuilt. [[Harrag]], its former pirate captain, refurbished it into a popular tavern.

@@ -23,7 +23,6 @@ Most members of the adventuring party are currently separated, scattered across 
 
 Before the operation at [[Askor]], the party acquired a carriage and supplies, then later established temporary lodging in an inn in the middle district of [[Calimsharn]].
 
-They are currently in the [[Luminous Cloud Citadel]].
+The active group is currently at the [[Order of the Purple Robes]]' tower, planning a return to [[Luskan, the city of Sails|Luskan]] through a teleportation circle in a warehouse outside the city.
 
-
-
+Their working Luskan plan is to reunite [[Red, the Kid|Red]]'s divided family, then decide whether to unite the [[Pirate Lords]] against the [[Red Wizards of Thay]] or feign cooperation with the [[Red Wizards of Thay|Red Wizards]] before betraying them in coordination with the [[Pirate Lords]].

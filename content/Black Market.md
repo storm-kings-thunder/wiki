@@ -15,3 +15,5 @@ In 1486 DR, the group was sent by [[Don Tigre]] to examine the black market and 
 The "Halfling" Felguros and Redd the Kidd almost caused a diplomatic incident — the former by attempting to steal from the market and the latter by punching the auctioneer.
 
 It has been identified as a place where a black [[Zhentarim]] ring can be used to prove contact and negotiate trade.
+
+During the [[Red Wizards of Thay|Red Wizards]]' takeover of [[Luskan, the city of Sails|Luskan]], the [[Seekers]] met [[Whisper]] in one of its shops. She claimed alliance with the party and gave them information about the Red Wizards' administrative network.
