@@ -8,7 +8,7 @@ Upon the group's return, he discovered that a sacrificial dagger had been used t
 
 Because the [[Seekers]] were being hunted by the Council's assassins, Razzles offered to teleport them out of [[Luskan, the city of Sails|Luskan]], and gave them a crystal so they could occasionally contact him.
 
-During their journey, the [[Seekers]] contacted Razzles periodically for insight on strange events — including [[Gorm]] and [[Athrax Volderak]]. He also warned the group of a plot within [[Don Tigre]]'s clan to assassinate the visiting [[Baron Rikkler]] in [[Neverwinter]], which would have provoked war between [[Neverwinter]] and [[Bryn Shander]].
+During their journey, the [[Seekers]] contacted Razzles periodically for insight on strange events — including [[Gorm]], [[Athrax Volderak]], and the aboleth [[Oosith]]. He also warned the group of a plot within [[Don Tigre]]'s clan to assassinate the visiting [[Baron Rikkler]] in [[Neverwinter]], which would have provoked war between [[Neverwinter]] and [[Bryn Shander]].
 
 Eventually, the newer members of the [[Seekers]] — [[Connor Lycanmor|Connor]], [[Morrigan Volderak|Morrigan]], and [[Solomon Pyllartes|Solomon]] — discovered that Razzles is a lich. This triggered a debate about whether to remain allied with an undead creature. [[Red, the Kid|Red]] opposed any action against him; [[Ougigoth Togak|Nog]] and [[Willow Margaster|Willow]] stayed neutral. The remaining members secretly planned to eventually act against Razzles before his possible evil nature could manifest.
 
