@@ -1,5 +1,0 @@
-Claiming to be the first of its kind, Oosith is an aboleth of pure, emotionless logic and boundless ego. It remembers the dawn of creation and regards all other life as fleeting amusements. Its designs are impossibly ancient and labyrinthine, all serving a single purpose: to attain a perfect, eternal form and usurp the gods themselves. Oosith possesses the singular ability to return from death, each resurrection refining and perfecting its form.
-
-Serving as a lieutenant of the [[Kraken]]'s cult, Oosith was stationed in [[Yartar]] with the task of kidnapping multiple nobles for unknown reasons, assisted by [[Lady Atalia]], who seduced and delivered them.
-
-When [[Lady Atalia]] attempted to redirect the [[Seekers]] into killing Oosith to replace him as lieutenant, he anticipated her betrayal. Disguised as a human wizard, he revealed her treachery to the group — then emerged in his true form and triggered a deadly underwater battle. He was barely killed by former Seeker [[Korosu]]. [[Red, the Kid|Red]] took one of his teeth as a trophy, but it disintegrated within a month.

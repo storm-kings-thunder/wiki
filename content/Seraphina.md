@@ -2,7 +2,7 @@ A current member of the [[Seekers]] and follower of [[Kelemvor, God of the Dead|
 
 She is expected to meet [[Inquisitor Valerius]], a [[Lords Alliance]] investigator linked to [[Savras, Goddess of Truth and Destiny|Savras]].
 
-While researching in the [[Luminous Cloud Citadel|Citadel]] library, she found records that the [[Kraken]] can communicate telepathically with cult members and kill them remotely, and that isolated island societies may venerate it entirely.
+While researching in the [[Luminous Cloud Citadel|Citadel]] library, she found records that the [[Kraken]] can communicate telepathically with cult members and kill them remotely.
 
 Her Sea Elf kingdom is governed by the [[Salt Throne Council]], composed of several demigods. Historically, one of those demigods advocated for cooperation with other deep-sea tribes and diplomacy with surface races; he was exiled for it. He then gained abyssal power, united the Cnidarans, Coralborn, and Sharkin tribes under his banner, and launched a war against the kingdom before disappearing. The allied tribes were subsequently expelled. This exiled demigod may be connected to the [[King of the Depths]] seen in her visions.
 
