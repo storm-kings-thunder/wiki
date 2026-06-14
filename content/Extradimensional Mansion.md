@@ -1,8 +1,8 @@
 The origins of this ancient demiplane, which takes the form of a mansion, are unknown. Whoever possesses and signs the mansion's contract becomes its new owner. Multiple people can sign the contract at the same time, allowing them access to the manor with the owner's permission, but there can only be one owner at a time.
 
-In 1486 DR, the [[Seekers]] purchased the contract at an auction in the [[Black Market]] of [[Luskan, the city of Sails|Luskan]] During their journey to [[Neverwinter]], [[Leor]] signed the contract, becoming the mansion's owner. Other members of the [[Seekers]] signed later. Upon gaining access, the [[Seekers]] discovered the mansion was corrupted by its previous owner, the fallen paladin [[Elgion Valesworn]]. After eliminating the sources of corruption and [[Elgion Valesworn]] himself, the [[Seekers]] began restoring the mansion. After [[Leor]]'s suicide in [[Waterdeep]], a [[Margaster Family]] spy stole his belongings, including the contract.
+In 1486 DR, the [[Seekers]] purchased the contract at an auction in the [[Black Market]] of [[Luskan, the city of Sails|Luskan]]. Several members signed it during their journey to [[Neverwinter]], allowing them access to the manor. Upon gaining access, the [[Seekers]] discovered the mansion was corrupted by its previous owner, the fallen paladin [[Elgion Valesworn]]. After eliminating the sources of corruption and [[Elgion Valesworn]] himself, the [[Seekers]] began restoring the mansion.
 
-With [[Leor]]'s death, the spies quickly established themselves as the new owners and used the mansion as a base. They did not expect the [[Seekers]] to regain access and reclaim ownership. With the death of the spy-owner, [[Zenvalros]] became the new owner by default, having the oldest signature on the contract. Later, during the journey to the [[Desert]], they discovered the mansion was possibly created by the ancient [[Athrax Volderak]] for unknown purposes, suggesting the mansion has had hundreds of owners throughout its existence.
+After a [[Margaster Family]] spy stole the contract, the spies quickly established themselves as the new owners and used the mansion as a base. They did not expect the [[Seekers]] to regain access and reclaim ownership. With the death of the spy-owner, [[Zenvalros]] became the new owner by default, having the oldest remaining signature on the contract. Later, during the journey to the [[Desert]], they discovered the mansion was possibly created by the ancient [[Athrax Volderak]] for unknown purposes, suggesting the mansion has had hundreds of owners throughout its existence.
 
 ## Current Owners
 
@@ -19,7 +19,6 @@ With [[Leor]]'s death, the spies quickly established themselves as the new owner
 
 ## Former Owners
 
-- [[Leor]] (Suicide by Firebolt)
 - [[Margaster Family|Margaster]] spies (Signed when they stole it. Got killed a few days after)
 - [[Elgion Valesworn]] (The previous corrupted owner of the mansion. Got killed by [[Seekers]] in their attempt to purge the corruption)
 - [[Athrax Volderak]] (Apparently the first owner of the mansion and its creator. His name is not on the contract, but it is unknown if he ever signed the contract)

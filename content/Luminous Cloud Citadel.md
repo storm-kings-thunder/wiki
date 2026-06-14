@@ -12,7 +12,7 @@ A formal dinner was scheduled to negotiate the party's intervention terms. At th
 
 ## Tower Exploration
 
-Before the party entered the upper levels, [[Magister Lavinia Brightswan|Lavinia]] contacted [[Maerik 'Andarilho' Brightpeak|Maerik]] telepathically to warn him not to sleep inside the tower.
+Before the party entered the upper levels, [[Magister Lavinia Brightswan|Lavinia]] privately warned them not to sleep inside the tower.
 
 **Room 1** — The entrance hall is decorated with murals depicting an ethereal figure representing the god [[Ao]], the creation of [[Selûne, God of the Moon]] and [[Shar]], the discovery of fire, and other milestones of civilization. Two Gorgons were defeated here.
 
