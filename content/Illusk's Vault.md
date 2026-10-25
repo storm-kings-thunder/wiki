@@ -1,0 +1,3 @@
+A formerly sealed vault in [[Illusk]], said by [[Darvan]] to contain the [[Intelligence from the Stars]]. He also says rebellious officials imprisoned [[Hardan Voss]] there. The drow may feel responsible for keeping it sealed.
+
+The [[Seekers]] found what appears to be the vault, its door tightly secured by a runic seal. A tent stands nearby, with three strokes marked on the wall behind it. After exposure to [[Arcane Radiation|arcane radiation]], [[Red, the Kid|Red]] appeared mentally manipulated into wanting to use the contents to help his clan. He used thieves' tools and a lever at the southern control console to open the gate, releasing Hardan Voss in a new form capable of opening fractures in reality. The vault is now open.

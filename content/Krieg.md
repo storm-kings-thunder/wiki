@@ -10,4 +10,8 @@ Krieg's hatred of the [[Pirate Lords]] is tied to his family having been enslave
 
 He now trains a new generation of soldiers equipped with strong weapons and alchemical products created by [[Razzles]]. Krieg believes the [[Red Wizards of Thay]] intend to control [[Luskan, the city of Sails|Luskan]]'s council, but still sees the [[Pirate Lords]]' slavery and brutality as the central evil.
 
+His attacks also disrupted weeks of negotiations during which [[Don Tigre]] and [[Taerl]] had nearly secured an alliance.
+
+[[Kessara Vold]] explicitly told the [[Seekers]] that she wants Krieg removed from the equation, considering him too unstable for her administration of [[Luskan, the city of Sails|Luskan]].
+
 Human Illuskan male. Alignment: Chaotic Neutral.

@@ -2,7 +2,7 @@
 tags:
   - deity
 ---
-Ulgyr is one of the [[7 Sons of Malar]], a group of powerful demigods of beasts. He takes the form of an enormous polar bear covered with rune-like markings of power. A colossal werebear, one of the Seven Sons of Malar and a divinity linked to [[Connor Lycanmor]].
+Ulgyr is one of the [[Seven Sons of Malar]], a group of powerful demigods of beasts. He takes the form of an enormous polar bear covered with rune-like markings of power. A colossal werebear, one of the Seven Sons of Malar and a divinity linked to [[Connor Lycanmor]].
 
 His relationship with the other sons is mostly unknown, but he seemed to hold a soft spot for Ulvar before his presumed "death." He also holds a strong dislike for Ulveric, presumably due to a rivalry. Despite thousands of years passing since the war they were utilized for, he still follows the ancient pact that was made and is currently using [[Connor Lycanmor]] as a host.
 

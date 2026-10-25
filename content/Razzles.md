@@ -16,6 +16,6 @@ He has also spoken of a power vacuum in [[Calimsharn]], escalating instability i
 
 When [[Red, the Kid|Red]] returned to [[Luskan, the city of Sails|Luskan]] with [[Rogers' Scimitar]], Razzles identified the weapon and Rogers' daggers as cursed instruments tied to [[Father Rogers]]' contract. He believes Rogers may be an avatar or projection of an archfiend, possibly an ancient [[Netheril|Netherese]] vizier, and that Rogers wants to raise [[Red, the Kid|Red]] into an archfiend beside him.
 
-Razzles believes [[Illusk]], the buried Netherese settlement beneath [[Luskan, the city of Sails|Luskan]], may hide a faction or base connected to these events and suggested an expedition below the city. He also considers [[Baram]] manipulable, [[Kurt]] dangerous and perceptive, and recommends killing any [[Pirate Lords]] who cannot be turned into allies.
+Razzles believes [[Illusk]], the buried Netherese settlement beneath [[Luskan, the city of Sails|Luskan]], may hide a faction or base connected to these events and suggested an expedition below the city. He also considers [[Baram]] manipulable, [[Kurth]] dangerous and perceptive, and recommends killing any [[Pirate Lords]] who cannot be turned into allies.
 
 Razzles magically disguised [[Red, the Kid|Red]] as a human and said [[Elindor]] is saner than before, making a future conversation possible.

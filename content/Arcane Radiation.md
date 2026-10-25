@@ -1,0 +1,1 @@
+Arcane radiation encountered in the energy pit in [[Illusk]]. [[Red, the Kid|Red]] gained one level of exposure while investigating the energy. He subsequently showed signs of mental manipulation, wanting to open [[Illusk's Vault]] and use whatever lay inside to help his clan; whether the radiation caused this influence remains uncertain.

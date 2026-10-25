@@ -15,4 +15,6 @@ The [[Red Wizards of Thay|Red Wizards]] now control most of the city's power str
 
 The [[Seekers]] identify the main active powers as the Red Wizards, the weakened [[Pirate Lords]], [[Red, the Kid|Red]]'s divided family, the [[Zhentarim]], and a possible unknown faction connected to [[Illusk]].
 
-A teleportation circle in a warehouse outside the city is the party's planned entry point for their next operation.
+The Thayan presence was apparently established through contracts brokered by [[Father Rogers]] after the Pirate Lords requested aid. Their Tharchion, [[Kessara Vold]], received the Seekers at the [[Administrative Tower]], defended the occupation as restoring order, and sought [[Krieg]]'s removal while offering terms to [[Don Tigre]]'s clan.
+
+The [[Seekers]] returned to the city through a teleportation circle in a warehouse outside Luskan. They have since negotiated with [[Taerl]], reunited with [[Connor Lycanmor|Connor]] in [[Kurth's Tower]], and withdrawn to [[Don Tigre's Hideout]] before meeting Kessara the following day.

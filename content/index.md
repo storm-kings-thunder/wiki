@@ -11,17 +11,17 @@ title: Storm King's Thunder — Campaign Wiki
 The adventuring party at the heart of this campaign. Currently split across the continent.
 
 **Active team:**
-[[Maerik 'Andarilho' Brightpeak|Maerik]] · [[Zenvalros]] · [[Red, the Kid]] · [[Seraphina]]
+[[Maerik 'Andarilho' Brightpeak|Maerik]] · [[Zenvalros]] · [[Red, the Kid]] · [[Seraphina]] · [[Connor Lycanmor|Connor]]
 
 **Separated members:**
-[[Morrigan Volderak]] · [[Ougigoth Togak]] · [[Solomon Pyllartes]] · [[Willow Margaster]] · [[Ellora Oak]] · [[Connor Lycanmor]]
+[[Morrigan Volderak]] · [[Ougigoth Togak]] · [[Solomon Pyllartes]] · [[Willow Margaster]] · [[Ellora Oak]]
 
 ---
 
 ## Current State of Play
 
 > [!important] Where Things Stand
-> The Seekers are in the [[Luminous Cloud Citadel]], seat of the [[Order of the Purple Robes]]. The [[Giant Ordning]] — giantkind's ancient social structure — lies shattered. Five relics must be reunited to learn how to restore it. **Four are in the party's possession.**
+> The active Seekers have returned to [[Luskan, the city of Sails|Luskan]] and descended into [[Illusk]]. After reuniting with [[Connor Lycanmor|Connor]] and meeting the drow in the ruins, they opened [[Illusk's Vault]], releasing [[Hardan Voss]] in a form capable of opening fractures in reality. The [[Giant Ordning]] — giantkind's ancient social structure — lies shattered. Five relics must be reunited to learn how to restore it. **Four are in the party's possession.**
 
 ---
 
@@ -44,6 +44,8 @@ The adventuring party at the heart of this campaign. Currently split across the 
 
 | Location | Description |
 |---|---|
+| [[Luskan, the city of Sails|Luskan]] | Port city under Thayan occupation; the party's current area of operations |
+| [[Illusk]] | Ancient ruins beneath Luskan; the party's current location |
 | [[Waterdeep]] | City of Splendors; the campaign's home base |
 | [[Luminous Cloud Citadel]] | Floating citadel of the Order of the Purple Robes |
 | [[Calimsharn]] | Southern city; recent theatre of operations |

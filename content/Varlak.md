@@ -1,0 +1,1 @@
+[[Kurth]]'s guard in [[Kurth's Tower|his tower]] in [[Luskan, the city of Sails|Luskan]]. The [[Seekers]] fought him during the encounter in which [[Connor Lycanmor|Connor]] initially attacked them under a curse. They inflicted substantial damage on Varlak but withdrew without defeating him.

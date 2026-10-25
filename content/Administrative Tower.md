@@ -1,0 +1,1 @@
+The administrative seat of the [[Red Wizards of Thay]] in [[Luskan, the city of Sails|Luskan]], staffed by well-equipped Red Wizards. [[Kessara Vold]] received the [[Seekers]] for a meeting on the third floor, where she defended the occupation and proposed cooperation with [[Don Tigre]]'s clan while seeking [[Krieg]]'s removal.

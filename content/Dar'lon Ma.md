@@ -1,0 +1,1 @@
+A [[Zulkir]] of the [[Red Wizards of Thay]]. According to [[Kessara Vold]], [[Magister Lavinia Brightswan|Lavinia]] was his slave before escaping from a heavily guarded fortress. Kessara warned that he has a long memory, implying that Lavinia's allies could face repercussions.

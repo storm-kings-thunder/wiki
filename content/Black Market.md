@@ -16,4 +16,6 @@ The "Halfling" Felguros and Redd the Kidd almost caused a diplomatic incident â€
 
 It has been identified as a place where a black [[Zhentarim]] ring can be used to prove contact and negotiate trade.
 
-During the [[Red Wizards of Thay|Red Wizards]]' takeover of [[Luskan, the city of Sails|Luskan]], the [[Seekers]] met [[Whisper]] in one of its shops. She claimed alliance with the party and gave them information about the Red Wizards' administrative network.
+During the [[Red Wizards of Thay|Red Wizards]]' takeover of [[Luskan, the city of Sails|Luskan]], the [[Seekers]] met [[Whisper]] in one of its shops. She claimed alliance with the party.
+
+[[Taerl]] later offered four ships and temporary crews to [[Don Tigre]]'s clan in exchange for a partnership with [[Red, the Kid|Red]] that would allow Taerl to bring some of his business into the market.

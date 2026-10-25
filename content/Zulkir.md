@@ -1,0 +1,1 @@
+A title of high authority among the [[Red Wizards of Thay]]. [[Dar'lon Ma]] is identified as a Zulkir in [[Kessara Vold]]'s account of [[Magister Lavinia Brightswan|Lavinia]]'s enslavement and escape. The title's precise powers and place in the hierarchy have not yet been established by the [[Seekers]].

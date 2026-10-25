@@ -4,6 +4,8 @@ aliases:
 ---
 An apprentice of [[Eszteban, the Magnificent|Eszteban]] and a member of the [[Order of the Purple Robes]] focusing on evocation and abjuration. She has slave marks on her neck from the [[Red Wizards of Thay]].
 
+According to [[Kessara Vold]], Lavinia was the property of [[Zulkir]] [[Dar'lon Ma]] and escaped from a heavily guarded fortress. Kessara warned the [[Seekers]] that the Zulkir has a long memory, implying that sheltering or supporting Lavinia could bring conflict with the Thayan authorities.
+
 During the [[Luminous Cloud Citadel|Citadel]] crisis, she stated that [[Eszteban, the Magnificent|Eszteban]] had become less sound in both body and mind.
 
 Before the [[Seekers]] entered the tower's upper levels, she privately warned them not to sleep inside the tower.

@@ -22,4 +22,6 @@ It is unknown whether he sent the group of assassins disguised as a circus troup
 
 After the [[Seekers]] returned to [[Luskan, the city of Sails|Luskan]], Don Tigre admitted that open war against the [[Red Wizards of Thay]] would annihilate his clan. He believes [[Krieg]] sees him as weak, but still wants to avoid involving the surviving [[Pirate Lords]] directly; he has also sent agents to the [[Zhentarim]] to arrange a meeting.
 
+Despite that reluctance, Don Tigre and [[Taerl]] came close to securing an alliance after weeks of negotiations, until Krieg launched an ambush against the Pirate Lords.
+
 Don Tigre told [[Red, the Kid|Red]] that he was meant to be a sacrifice before Tigre saved him, and suspects Red descends from a powerful fiend of the [[Nine Hells]].

@@ -19,3 +19,11 @@ He gave the [[Lords of Calimsharn]] the gift of [[Truespeech]].
 [[Razzles]] believes Father Rogers may be an avatar or projection of an archfiend, possibly an ancient [[Netheril|Netherese]] vizier. He also believes Rogers intends to make [[Red, the Kid|Red]] into an archfiend, but remains bound by infernal rules and by the terms of his pacts.
 
 He also appeared in [[Meredin]]'s dreams and provided him with a poison to administer to [[Eszteban, the Magnificent|Eszteban]], claiming it would merely weaken him. The poison was both physical and mental, responsible for Eszteban's prolonged paranoia and decline. [[Red, the Kid|Red]] shared this information with the [[Order of the Purple Robes]] council, which resolved to strengthen its defenses against mental influence.
+
+## Luskan
+
+According to [[Taerl]], Rogers brokered the contracts through which the [[Pirate Lords]] requested aid and brought the [[Red Wizards of Thay]] into [[Luskan, the city of Sails|Luskan]].
+
+[[Kessara Vold]] later said [[Kurth]] had contacted one of her superiors. The [[Seekers]] understood this as Rogers having contacted Kurth, though his precise role in the contact remains uncertain.
+
+Rogers later trapped [[Skold]] inside a fixed glass container in a tavern and used him to force another conversation with Red. He described Luskan as chaos with a small drop of order, urged Red to stop asking the Pirate Lords and start commanding them, and argued that they were merely pieces to be moved. Rogers seeks order regardless of the violence required, claiming that “order imposed with precision is the most beautiful thing in the world”; Red rejected his methods and vision.

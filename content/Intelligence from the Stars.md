@@ -1,0 +1,1 @@
+An apparently dangerous intelligence of stellar origin, said to be contained in [[Illusk's Vault]]. According to [[Darvan]], the drow benefit from it, but it must not escape. Its precise nature is unknown.

@@ -1,1 +1,0 @@
-Tairl is one of the surviving [[Pirate Lords]] of [[Luskan, the city of Sails|Luskan]], known as a merchant and diplomat. [[Don Tigre]] believes Tairl is acting behind the backs of the [[Red Wizards of Thay]].
