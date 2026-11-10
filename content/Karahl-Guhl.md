@@ -1,32 +1,28 @@
 ## Overview
 
-Karahl-Guhl was an exiled mind flayer whose mind was irrevocably damaged after the death of his companion [[Zaxab]]. Consumed by grief and vengeance, he and his small band of thralls terrorised the lands around [[Alkai Tor]] in 1486 DR, abducting villagers and using a ruined ziggurat in the Border Mire — the [[Temple of Shattered Minds]] — as his lair.
+Karahl-Guhl was an exiled illithid who terrorised [[Alkai Tor]] and [[Bog Town]] in 1486 DR. Operating from the [[Temple of Shattered Minds]], he abducted villagers and subjected them to psychic experiments. He was methodical and sadistic, taking pleasure in the suffering of his captives.
 
 ## Background
 
-Karahl-Guhl and Zaxab were once powerful members of their illithid enclave in the Underdark. Their close psychic bond — an intimate connection illithids found unsettling — led to their exile. Fleeing through the Underdark and surfacing in the Border Mire, they arrived with only a few dozen thralls: several kuo-toa, a handful of quaggoths, and an umber hulk.
+Karahl-Guhl and his companion [[Zaxab]] shared an unusually intimate psychic bond that unsettled the other illithids and led to their exile from their [[Underdark]] enclave. They emerged into the [[Border Mire]] with a few dozen thralls.
 
-During a skirmish with defenders of Alkai Tor, Zaxab was slain. The loss blasted Karahl-Guhl's mind; his psychic faculties were fractured and he became driven by a single, burning need for vengeance against those he blamed.
+When Zaxab was killed during a skirmish with defenders of Alkai Tor, the loss fractured Karahl-Guhl's mind. Consumed by grief and vengeance, he withdrew to the ruined ziggurat in the northern salt marsh and began a campaign against the surrounding settlements.
 
-## The Campaign Against Alkai Tor
+## Raids and Experiments
 
-After Zaxab's death Karahl-Guhl retreated to a ruined ziggurat deep in the salt marsh. From there he launched raids on Alkai Tor and nearby settlements, using thralls to abduct villagers (notably Mystic Howling-Gale and Elder Rolling-Thunder) and bringing them to the ziggurat for experimentation and psychic manipulation.
+Karahl-Guhl sent his thralls to raid settlements at night and bring captives to the temple. Among those abducted were [[Mystic Howling-Gale]] and [[Elder Rolling-Thunder]]. He used psychic procedures to break his prisoners' minds and turn them into obedient servants.
 
-Karahl-Guhl's methods were cruel and systematic. He used his thralls to capture and deliver victims, and he performed psychic procedures intended to break minds and create obedient servants. Survivors described him as methodical and sadistic — a being that felt emotions intensely, especially glee at the torment of others.
+His forces defeated many members of the tribe led by [[Kaghed Togak]], who had approached Alkai Tor seeking an alliance against the threat.
 
-## Thralls & Allies
+His servants and allies included:
 
-- Kuo-toa: Fanatical, fishlike thralls used as shock troops.
-- Quaggoths: Hulking, savage servants used for brute force.
-- Umber hulk: A powerful burrowing creature kept as a personal pet and guardian.
-- Hags (coven beneath the lake): Agents that received information from thralls within Alkai Tor, and who aided Karahl-Guhl's plans until his defeat.
+- **Kuo-toa:** Fanatical thralls used as shock troops.
+- **Quaggoths:** Powerful servants used for brute force, including the psychic quaggoth [[Thonot]].
+- **An umber hulk:** Kept as a pet and guardian.
+- **A coven of three hags:** Based beneath [[Lake Alkai]], they received information from Elisse, an enthralled resident of Alkai Tor, and supported his operations.
 
-## Key Events & Fate
+## Defeat and Aftermath
 
-- Karahl-Guhl's thralls carried out night raids and kidnappings across Alkai Tor and Bog Town.
-- The Seekers investigated the disappearances, discovered the ziggurat, and confronted Karahl-Guhl.
-- In the ensuing conflicts Karahl-Guhl killed Nog (Ougigoth Togak) of the [[Seekers|Seekers]]. Karahl-Guhl was ultimately slain by [[Willow Margaster|Willow Devonshire]] during the rescue at the ziggurat.
+The [[Seekers]] investigated the disappearances and confronted Karahl-Guhl at the temple. During the conflict, he killed [[Ougigoth Togak|Nog]]. He was ultimately slain by [[Willow Margaster|Willow Devonshire]] during the rescue.
 
-## Aftermath
-
-With Karahl-Guhl's death and the dismantling of his operations, many thralls were freed or scattered. Some, like the psychic quaggoth **Thonot**, recovered enough sense to cooperate with local allies. The ziggurat remains a dangerous ruin, its halls stained by the psychic experiments once conducted there.
+His defeat freed several captives and thralls, while others scattered. Thonot, whose psychic abilities had helped her resist his domination, formed a tenuous alliance with Mystic Howling-Gale. After his rescue, Howling-Gale began establishing a mystic order in the ruined temple.

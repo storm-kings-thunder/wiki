@@ -1,8 +1,8 @@
-Bog Town is a small settlement near the edge of the Border Mire, where several residents live off fishing, peat gathering, and limited marsh farming. During the Karahl-Guhl attacks Bog Town suffered raids by thralls from the ziggurat and sustained casualties.
+Bog Town is a small settlement on the edge of the [[Border Mire]], near [[Alkai Tor]]. Its residents live primarily through fishing, peat gathering, and limited marsh farming. The two settlements depend on one another for supplies and mutual defence.
 
-Notable residents
-- **Groundskeeper Nikov** — initially a thrall of the mind flayer who retained some semblance of intellect. He was freed from the mind flayer's control after Karahl-Guhl was defeated and remains wary but cooperative with nearby Alkai Tor.
-- **Townmaster Ilych** — a paranoid leader who lost his son to the thralls. Consumed by grief, he kept his son's corpse at home out of fear of burying him outside the town. The Seekers helped protect him and Bog Town during later assaults.
+During [[Karahl-Guhl]]'s campaign, thralls from the [[Temple of Shattered Minds]] raided the settlement and killed several residents. The [[Seekers]] helped protect the town during subsequent attacks.
 
-Relations
-Bog Town maintains tenuous ties with Alkai Tor; the two communities rely on each other for supplies and mutual defence against threats that emerge from the marsh.
+## Notable Residents
+
+- **Groundskeeper Nikov:** A thrall of Karahl-Guhl who retained some independence of thought. He was freed after the illithid's defeat and remains wary but cooperative with Alkai Tor.
+- **Townmaster Ilych:** The town's leader, left paranoid and grief-stricken by his son's death. Afraid to bury him outside the settlement, he kept the body at home.

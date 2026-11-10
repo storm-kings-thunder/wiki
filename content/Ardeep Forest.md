@@ -1,0 +1,3 @@
+The Ardeep Forest lies north of [[Nightstone]], in the region between [[Waterdeep]] and Daggerford. It is home to wood elves and the village of [[Alkai Tor]], which stands on the shores of [[Lake Alkai]].
+
+Relations between the forest's wood elves and the inhabitants of Nightstone were historically strained. Following the [[Seekers]]' rescue of Nightstone's survivors in 1485 DR, relations with Alkai Tor became cordial, before Nightstone's destruction by [[Gorm]] in 1486 DR.

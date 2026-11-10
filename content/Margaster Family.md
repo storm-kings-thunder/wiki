@@ -2,7 +2,6 @@
 aliases:
   - Margasters
 ---
-
 [[Xamlyn Margaster|Xamlyn]] and [[Alaeros Margaster|Alaeros]] were once a young, impoverished couple in [[Waterdeep]], serving a corrupt and abusive noble lord. One fateful night, an unknown entity approached them with a dreadful bargain: wealth and power in exchange for the noble’s death.
 
 They accepted, the murder was committed, and from that moment began the Margaster family’s descent into evil.

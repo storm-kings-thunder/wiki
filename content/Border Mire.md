@@ -1,1 +1,5 @@
-The Border Mire is the bog north of [[Alkai Tor]], fed by two freshwater rivers; its western and central reaches are freshwater marsh and peat, while the eastern half becomes a toxic saltwater marsh from natural underground salt deposits. The terrain is unstable—soft peat, quickmud, reed beds, and tidal flats—where poisoned springs, hidden sinkholes, and marsh predators (quaggoths, kuo-toa, burrowing beasts) make travel hazardous. Locals know to follow raised ridgelines, carry ropes and iron stakes, and purify water before drinking.
+The Border Mire is a bog north of [[Alkai Tor]], fed by two freshwater rivers. Its western and central reaches consist of freshwater marsh and peat, while underground salt deposits turn the eastern half into a toxic saltwater marsh.
+
+Unstable ground, hidden sinkholes, poisoned springs, and dangerous creatures make travel hazardous. Locals favour raised ridgelines and carry ropes and stakes to cross the softer ground.
+
+[[Bog Town]] stands near the marsh's edge. Deep in its northern saltwater reaches lies the [[Temple of Shattered Minds]], which [[Karahl-Guhl]] used as a base for raids and kidnappings.

@@ -1,7 +1,5 @@
-Augrek Brighthelm is a shield dwarf deputy in [[Bryn Shander]], born and raised in the city. She is typically posted at the southwest gate, where she welcomes all visitors with a well-rehearsed speech about the wonders of the city.
+Augrek Brighthelm is a shield dwarf who serves as a deputy in [[Bryn Shander]], the city where she was born and raised. Usually stationed at the southwest gate, she greets visitors with a well-rehearsed speech praising her hometown.
 
-Augrek has a good heart and genuinely wants to protect her home. She also harbors deep affection for Sheriff [[Markham Southwell]].
+Warm-hearted and devoted to protecting her community, Augrek also harbors a deep affection for Sheriff [[Markham Southwell]].
 
-In late 1485 DR, she was on duty at the gate when giants attacked the city.
-
-*Alignment: Lawful Good*
+In late 1485 DR, she was on duty at the southwest gate when frost giants attacked Bryn Shander in search of [[Artus Cimber]].

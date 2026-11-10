@@ -2,4 +2,6 @@
 tags:
   - deity
 ---
-The overgod of worlds
+![[Ao.png]]
+
+The overgod of worlds.

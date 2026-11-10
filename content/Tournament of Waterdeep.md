@@ -1,6 +1,6 @@
-The so-called Tournament is a grand quadrennial event held in **[[Waterdeep]]**, featuring multiple contests where warriors, bards, and mages from across the Sword Coast gather to showcase their talents.
+The so-called Tournament is a grand quadrennial event held in [[Waterdeep]], featuring multiple contests where warriors, bards, and mages from across the Sword Coast gather to showcase their talents.
 
-In 1486 DR, the halfling **[[Simon Sack-of-Potatoes]]** sought the help of the **[[Seekers]]** after discovering a cryptic note stating that someone named [[Felix]] had to die during the tournament.
+In 1486 DR, the halfling [[Simon Sack-of-Potatoes]] sought the help of the [[Seekers]] after discovering a cryptic note stating that someone named [[Felix]] had to die during the tournament.
 
 Through investigation, the party uncovered a conspiracy orchestrated by the [[Margaster Family|Margasters]] to manipulate public perception — a plot designed to make [[Sir Egan]] appear as a hero of the people and an ideal puppet for the family’s political ambitions.
 
@@ -63,7 +63,7 @@ A culinary challenge where two teams were tasked with creating the best dish pos
 - _Gimble Jimblebottom_ — gnomish gourmand.
 
 **Winning Team:** [[Connor Lycanmor|Connor]], [[Ougigoth Togak|Nog]], and [[Morrigan Volderak|Morrigan]], who impressed the judges with a soufflé made from a Nothic’s eye.  
-**Losing Team:** [[Solomon Pyllartes|Solomon]], [[Willow]], and [[Simon Sack-of-Potatoes]], whose basilisk-heart dish nearly choked Gimble to death.
+**Losing Team:** [[Solomon Pyllartes|Solomon]], [[Willow Margaster|Willow]], and [[Simon Sack-of-Potatoes]], whose basilisk-heart dish nearly choked Gimble to death.
 
 ---
 

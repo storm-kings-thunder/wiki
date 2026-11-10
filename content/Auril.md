@@ -6,14 +6,14 @@ aliases:
   - Queen of Air and Darkness
   - Lady Frostkiss
 ---
-**Alignment**: Neutral Evil
-**Domains**: Nature, Tempest
-**Pantheon**: Faerûnian
-**Symbol**: Six-pointed snowflake of pale blue
-**Typical Worshipers**: Those in cold climates, those seeking to appease winter, chillbringers (her clergy)
+**Alignment**: Neutral Evil  
+**Domains**: Nature, Tempest  
+**Pantheon**: Faerûnian  
+**Symbol**: A pale blue, six-pointed snowflake  
+**Typical Worshipers**: Inhabitants of cold regions, those seeking protection from winter, and her clergy, known as chillbringers
 
-Goddess of winter, cold, and storms. Auril is a cruel and indifferent deity who seeks to preserve the beauty of the world by freezing it. She is widely feared in the North, where travelers make offerings to cold streams and snowbanks in hopes of surviving harsh winters. Her followers sacrifice in her name not from love but from desperate necessity.
+Auril is the goddess of winter, cold, and winter storms. Cruel and indifferent to suffering, she seeks to preserve beauty by encasing it in ice. She is particularly feared in the North and holds considerable influence over [[Icewind Dale]].
 
-In [[Parnast]], a shrine displays Auril's symbol alongside those of Angharradh, Chauntea, and Mielikki — the four seasonal deities — though the symbols are subtly corrupted, hinting at the desert's degrading influence on divinity.
+Travelers leave offerings in cold streams and snowbanks, hoping to appease her and survive the winter. Much of her worship is driven by fear and necessity rather than devotion.
 
-Auril holds particular sway over [[Icewind Dale]], where her power over endless winter is at its greatest.
+In [[Parnast]], a shrine displays her symbol alongside those of Angharradh, Chauntea, and Mielikki, representing the four seasons. The symbols are subtly corrupted, suggesting the [[Desert]]'s degrading influence on divinity.

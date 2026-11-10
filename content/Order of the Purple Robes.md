@@ -1,8 +1,8 @@
 An order of wizards founded by [[Eszteban, the Magnificent]] whose members collaborate to preserve knowledge and expand the practice of magic in the world.
 
-Known members include [[Magister Lavinia Brightswan|Levinia]], [[Baelgrak]], [[Hrimmar]], [[Meredin]] and [[Baelgrak]]. Most of the members are outcasts.
+Known members include [[Magister Lavinia Brightswan|Lavinia]], [[Baelgrak]], [[Hrimmar]], and [[Meredin]]. Many of its members are outcasts.
 
-During the crisis at the [[Luminous Cloud Citadel]], internal rivalry among the mages became evident.
+The crisis at the [[Luminous Cloud Citadel]] exposed divisions within the Order. [[Baelgrak]] criticized its direction but defended [[Eszteban, the Magnificent|Eszteban]]'s past contributions, while [[Magister Lavinia Brightswan|Lavinia]] sought outside help to regain access to the upper library and recover the [[Discoveries]].
 
 [[Magister Lavinia Brightswan]] asked the [[Seekers]] to convince [[Eszteban, the Magnificent]] to rejoin the order and, above all, to recover the [[Discoveries]]. In exchange, the party was offered rights to keep anything found in the tower except the discoveries themselves.
 

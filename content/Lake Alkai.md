@@ -1,1 +1,3 @@
-A lake on whose shining shores the elven village of [[Alkai Tor]] stands. The village's granite tor rises about twenty feet above the surrounding cliff and thirty feet above the lake's surface. Beneath the lake, a coven of three hags served as thralls of the illithid [[Karahl-Guhl]] until his defeat.
+Lake Alkai lies beside the village of [[Alkai Tor]]. The granite tor around which the village was founded rises approximately twenty feet above the surrounding cliff and thirty feet above the lake.
+
+A coven of three hags beneath the lake served [[Karahl-Guhl]]. They received information from Elisse, an enthralled resident of Alkai Tor, and aided the illithid's operations against the village.

@@ -1,17 +1,21 @@
-Nightstone is a fortified settlement located near the Ardeep Forest (in which lies the village of Alkai Tor), in the hills between [[Waterdeep]] and Daggerford. It is connected to the High Road via a side trail.
+Nightstone was a fortified settlement in the hills between [[Waterdeep]] and [[Daggerford]], a few miles south of the [[Ardeep Forest]], where [[Alkai Tor]] lies. A side trail connected it to the [[High Road]]. Following a cloud giant assault and its later destruction by [[Gorm]], the settlement stands abandoned.
 
 ## Geography
 
-Nightstone was located a few miles south of the Ardeep Forest, built on the Ardeep River. It consisted of a fenced island connected to an artificial motte that held the village's keep. Its name derived from a mysterious obsidian obelisk in the center of the village that had strange glyphs carved into it and emanated a magic aura. With the assault of the cloud giants and the attack by [[Gorm]], only ruins remain. Even the castle itself was disintegrated.
+Built on an island in the Ardeep River, Nightstone consisted of a palisaded village connected to an artificial mound supporting its keep. It took its name from a mysterious obsidian obelisk in the village square, covered in strange glyphs and radiating magic.
+
+The settlement once housed a few dozen humans, halflings, and dwarves, along with a tiefling family. No inhabitants remain, and even the keep was disintegrated during Gorm's attack.
 
 ## History
 
-Over the years, the villagers of Nightstone had bad relationships with the wood elves who inhabited the Ardeep Forest. Sometime after the War of the Silver Marches, the village was bombarded by a cloud giant floating castle, killing many inhabitants and forcing survivors to escape into nearby caves.
+Nightstone's inhabitants long maintained strained relations with the wood elves of the Ardeep Forest.
 
-After a band of brave adventurers managed to rescue the survivors from a nearby tribe of goblins, most of the original inhabitants decided to abandon the village. The remaining ones stubbornly attempted to rebuild Nightstone, and relations with the village of Alkai Tor improved to the point of becoming cordial.
+In 1485 DR, cloud giants bombarded the village from a floating castle, killing many inhabitants and driving the survivors into nearby caves, where they fell into the hands of goblins. The founding members of the [[Seekers]] rescued them and, with help from [[Felguros]], also repelled an orc attack.
 
-In 1486 DR, a few days after a band of adventurers left the village to visit Alkai Tor, a powerful entity named [[Gorm]] massacred everyone inside the village to lure the group back. After his defeat by the group, the true effects of his attack became clear: all existing memories of Nightstone were erased or became blurry, as if it never existed in reality.
+Most survivors subsequently abandoned Nightstone. Those who remained attempted to rebuild, while relations with nearby [[Alkai Tor]] improved. After their initial adventures in the village, the Seekers traveled to [[Bryn Shander]] aboard [[Zephyros' Tower]].
 
-## Demographics
+In 1486 DR, while the Seekers were away visiting Alkai Tor, [[Gorm]] massacred the remaining inhabitants to lure the party back. The Seekers returned and defeated him among the ruins, where he relentlessly pursued [[Morrigan Volderak|Morrigan]].
 
-A mixture of a few dozen halflings, dwarves, humans, and a family of tieflings. Current population: None.
+Afterward, the party discovered that their memories of Nightstone had faded or become indistinct, suggesting that Gorm's destruction could erase more than physical lives and buildings. Accounts describe the settlement as slipping from memory as though it had never existed.
+
+For the Seekers' involvement, see [[Arc - The First Seekers]].

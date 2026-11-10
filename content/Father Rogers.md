@@ -1,6 +1,6 @@
 Father Rogers presents himself as a friendly, fat priest, who pays respect to every god. He first met the [[Seekers]] in [[Parnast]] before their departure to the [[Desert]], but even on that encounter he has shown that there is more to him than meets the eye, such as the reveal that he knew of the demon hunting [[Red, the Kid|Red]]. Apparently, he is [[Red, the Kid|Red]]'s grandfather.
 
-Later in the cantina of the [[Arena]], Father Rogers showed his power more obviously by stopping time and offering [[Red, the Kid|Red]] a deal: He would make a contract with three conditions. If the three conditions were satisfied, Rogers would obtain [[Red, the Kid|Red]]'s soul. If they were not accomplished by the end of [[Red, the Kid|Red]]'s life, he would be free of the contract. The contract was as follows:
+Later in the cantina of the [[Arena of the Desert]], Father Rogers showed his power more obviously by stopping time and offering [[Red, the Kid|Red]] a deal: He would make a contract with three conditions. If the three conditions were satisfied, Rogers would obtain [[Red, the Kid|Red]]'s soul. If they were not accomplished by the end of [[Red, the Kid|Red]]'s life, he would be free of the contract. The contract was as follows:
 
 1. The demon hunting Red would be eliminated
 2. [[Don Tigre]]'s clan established Red's vision over the city.

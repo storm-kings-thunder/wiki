@@ -44,3 +44,5 @@ The room's music induced magical sleep. During the dream, a demon-like minotaur 
 ## Resolution
 
 [[Eszteban, the Magnificent|Eszteban]] was killed by [[Meredin]], who had been poisoning him for years under a deal with [[Father Rogers]]. [[Meredin]] was subsequently arrested. The [[Order of the Purple Robes]] dissolved its single-leader structure and formed a council to govern the order. The party was granted access to the library.
+
+For the Seekers' involvement, see [[Arc - The Luminous Cloud Citadel]].

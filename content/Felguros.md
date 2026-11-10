@@ -10,4 +10,4 @@ In 1486 DR, he attempted to transform into a halfling so he could accompany the 
 
 He has since managed to regain his ability to transform back into a dragon.
 
-His former lair is in [[Askor]], where his horde is currently guarded by two blue dragons. One of the giant relics sought by the party is there.
+His former lair lies within the dwarven ruins of [[Askor]], where his treasure hoard remains guarded by two blue dragons. The site also contains one of the giant relics sought by the [[Seekers]].

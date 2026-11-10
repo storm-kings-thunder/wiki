@@ -10,7 +10,7 @@ The city's architecture features a distinctive three-tiered design, with massive
 [[Blood Mines]]
 [[Pit]]
 [[Dusty Talisman]]
-[[Arena]]
+[[Arena of the Desert]]
 [[Hospital]]
 
 ### Innermost District
@@ -64,3 +64,5 @@ Until the [[Lord of Science]] joined and created a cure for the affliction, ther
 Currently massively destroyed due to [[Red Warriors]] exploding, controlled by the [[God of the Desert]].
 
 Recent accounts also describe a developing power vacuum in the city following these crises.
+
+For the Seekers' involvement, see [[Arc - Secrets of the Desert]].

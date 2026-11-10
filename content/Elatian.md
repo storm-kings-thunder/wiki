@@ -1,3 +1,3 @@
-An elf encountered in a caravan near the desert ruins.
+Elatian is an elf encountered by the [[Seekers]] in a caravan near [[Askor]]. She traveled with a red-haired man and three guards transporting a device capable of launching weighted nets.
 
-Elatian sought support to kill the corrupted brass dragon known as the "Flying Misfortune," identified as [[Felguros]]. She displayed a black [[Zhentarim]] ring as proof of contact in the [[Black Market]].
+She sought help to kill the brass dragon known as the Flying Misfortune, identified as [[Felguros]], whom she described as corrupted. She displayed a black [[Zhentarim]] ring as proof of contact in the [[Black Market]].

@@ -8,7 +8,7 @@ Once brilliant, he fell into paranoia, imprisoning himself within the upper leve
 
 Correspondence between Eszteban and [[Lord of Knowledge|Professor Ishmael]] references the project of the [[Discoveries]], meant to assemble a major archive of spells and arcane findings. The correspondence also references his apprentice, [[Magister Lavinia Brightswan|Lavinia]].
 
-According to [[Baelgrak]], Eszteban once sought to improve the world through magic, but his priorities shifted abruptly after an unknown discovery.
+According to [[Baelgrak]], Eszteban originally sought to improve the world through magic, but his priorities changed following an unidentified discovery. His later paranoia and physical deterioration were traced to poison administered by [[Meredin]] under instructions from [[Father Rogers]].
 
 He contracted [[Obi diu Diva]], a genie from the Plane of Fire, to serve as a guardian in the tower's upper levels under a decade-long binding. The genie was dismissed when the [[Seekers]] used Banishment to send him back to his plane.
 

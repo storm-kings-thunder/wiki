@@ -6,7 +6,7 @@ Each Lord governs a specific domain within the city and generally refrains from 
 
 [[Lady of Blood]] - Kareem el Mustar: The Lady of Blood oversees the hospital and part of the mines. In the [[Desert]], where divine power is scarce, she treats miners afflicted by the [[Red Plague]] and removes mutations with the aid of the [[Lord of Science]]'s vaccine and her biological [[Truespeech]]. She guards her position as the only accomplished healer in [[Calimsharn]]. In 1486 DR, she hired the [[Seekers]] to track down a group of escaped patients infected with an unusual strain of [[Vampirism]] who had massacred others in the hospital. Her bodyguard and "son," [[Ankhor]], is a massive humanoid with a childlike mind but surprisingly advanced vocabulary.
 
-[[Master of the Arena]] - true name unknown: The Master of the Arena presides over the [[Arena]] and is a largely silent figure who remains motionless until combat begins. His extensive use of [[Truespeech]] appears to have consumed much of his former self, explaining his uncanny ability to reshape the arena's terrain.
+[[Master of the Arena]] - true name unknown: The Master of the Arena presides over the [[Arena of the Desert]] and is a largely silent figure who remains motionless until combat begins. His extensive use of [[Truespeech]] appears to have consumed much of his former self, explaining his uncanny ability to reshape the arena's terrain.
 
 [[Lord of Slaves]] - Taalib el Hakim: The Lord of Slaves commands his [[Palace]] and many slaves, and has cultivated fiendish allies through his Truespeech. He is known for granting wishes to those who fulfill their contracts, a power he demonstrated when he aided the [[Seekers]] in the effort to free [[Felguros]].
 

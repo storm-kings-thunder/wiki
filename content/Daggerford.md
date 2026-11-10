@@ -1,0 +1,3 @@
+Daggerford is a small fortified town south of [[Waterdeep]], situated where the Trade Way crosses the Delimbiyr River. Its strategic position makes it an important stop for merchants and caravans traveling along the Sword Coast.
+
+The town is dominated by its duke's castle and serves as a center of trade and protection for the surrounding farming communities. [[Nightstone]] lies in the hills between Daggerford and Waterdeep.

@@ -18,3 +18,5 @@ The [[Seekers]] identify the main active powers as the Red Wizards, the weakened
 The Thayan presence was apparently established through contracts brokered by [[Father Rogers]] after the Pirate Lords requested aid. Their Tharchion, [[Kessara Vold]], received the Seekers at the [[Administrative Tower]], defended the occupation as restoring order, and sought [[Krieg]]'s removal while offering terms to [[Don Tigre]]'s clan.
 
 The [[Seekers]] returned to the city through a teleportation circle in a warehouse outside Luskan. They have since negotiated with [[Taerl]], reunited with [[Connor Lycanmor|Connor]] in [[Kurth's Tower]], and withdrawn to [[Don Tigre's Hideout]] before meeting Kessara the following day.
+
+For the Seekers' involvement, see [[Arc - Return to Luskan]].

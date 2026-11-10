@@ -25,6 +25,25 @@ The adventuring party at the heart of this campaign. Currently split across the 
 
 ---
 
+## Campaign Arcs
+
+Follow the Seekers' story through the campaign's major conflicts and discoveries. These pages group related events; the list is not a complete chronological timeline.
+
+- [[Arc - The First Seekers|The First Seekers]] — Nightstone, Zephyros, and the defense of Bryn Shander.
+- [[Arc - The Fall of the Margasters|The Fall of the Margasters]] — A tournament and a struggle against Waterdeep's ruling family.
+- [[Arc - The Shadows of Alkai Tor|The Shadows of Alkai Tor]] — Disappearances and an illithid's campaign of vengeance.
+- [[Arc - The Erasure of Nightstone|The Erasure of Nightstone]] — Gorm's pursuit and a village slipping from memory.
+- [[Arc - Protectors of Neverwinter|Protectors of Neverwinter]] — Conspiracies and disasters threatening the city.
+- [[Arc - The Corruption of Neverwinter Woods|The Corruption of Neverwinter Woods]] — A cursed estate and the struggle to cleanse an ancient forest.
+- [[Arc - The Enclave of Kelemvor|The Enclave of Kelemvor]] — A corrupted sanctuary and the escape of its ancient prisoner.
+- [[Arc - Secrets of the Desert|Secrets of the Desert]] — Gladiatorial contracts, lost empires, and the secrets beneath Calimsharn.
+- [[Arc - The Luminous Cloud Citadel|The Luminous Cloud Citadel]] — A divided order and the fate of Eszteban's discoveries.
+- [[Arc - Return to Luskan|Return to Luskan]] — Thayan occupation, fractured loyalties, and the opening of Illusk's Vault.
+
+The search for the giant relics continues across several arcs; see [[Prophecy]] and [[Giant Ordning]].
+
+---
+
 ## Key Factions
 
 | Faction | Role |

@@ -1,7 +1,7 @@
-Amphail is a village on the Long Road between [[Waterdeep]] and Red Larch. It benefits from its relatively close proximity to [[Waterdeep]] and was provided a small garrison of Waterdhavian guards.
+Amphail is a village on the Long Road between [[Waterdeep]] and Red Larch. Its proximity to Waterdeep supports local trade, and the city provided a small garrison of guards.
 
-In 1486 DR, a demon possessing a jester named Tasha came to the village and lured the entire village into a twisted carnival-like dimension hiding a grotesque plan. For decades, Tasha travelled through villages and devoured the souls of its inhabitants by converting them into pastries inside her dimension. Parnast was the latest victim.
+## History
 
-[[Seekers]] arrived a week later and infiltrated the twisted dimension of Tasha, finally managing to kill her after travelling through her carnival of horrors.
+In 1486 DR, a demon possessing a jester named [[Tasha]] lured the village's inhabitants into a twisted carnival dimension. The [[Seekers]] arrived a week later, entered the carnival, and defeated her.
 
-Upon Tasha's death, thousands of her victims were freed (the ones not eaten at the time) and, with guidance from the group, decided to build a new home on the former village of Amphail.
+Tasha's death freed thousands of surviving captives taken from settlements over several decades, including [[Parnast]]. With guidance from the Seekers, the survivors chose Amphail as their new home and began rebuilding the village.

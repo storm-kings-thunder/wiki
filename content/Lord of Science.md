@@ -13,7 +13,7 @@ The Lord of Science's domain is his [[Laboratory]], where he conducts a wide ran
 2. Dr. Toyo, who is half-mutated
 3. Dr. Arnold, who is partially mechanical
 
-Doctor Craven created a vaccine against the [[Red Plague]] and developed an engine capable of extracting the purest essence from the [[Blood Stones]]. Still, he often pursues risky, improvised experiments that sometimes end disastrously — most recently resulting in demon-possessed pigs overrunning his laboratory. Occasionally he supplies the [[Arena]] with some of these "failed" experiments for gladiators to fight.
+Doctor Craven created a vaccine against the [[Red Plague]] and developed an engine capable of extracting the purest essence from the [[Blood Stones]]. Still, he often pursues risky, improvised experiments that sometimes end disastrously — most recently resulting in demon-possessed pigs overrunning his laboratory. Occasionally he supplies the [[Arena of the Desert]] with some of these "failed" experiments for gladiators to fight.
 
 He harbors a deep disdain for "Superstition," a category that includes anything remotely religious or magical, which has put him at odds with the [[Lord of Knowledge]].
 

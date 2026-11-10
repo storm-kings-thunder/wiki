@@ -32,3 +32,5 @@ As of 1372 DR, the city had a standing army called the Graycloaks — 400 archer
 ## Demographics
 
 Population approximately 27,000. As of 1479 DR, the city became more cosmopolitan, with eladrin and tieflings common sights among citizens alongside humans, half-elves, and a sizable delegation of dragonborn mercenaries.
+
+For the Seekers' involvement, see [[Arc - Protectors of Neverwinter]].

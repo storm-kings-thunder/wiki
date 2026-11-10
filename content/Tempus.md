@@ -33,4 +33,4 @@ A brotherhood of mercenaries organized around Tempus's Honor. A warrior becomes 
 
 ## In the Campaign
 
-[[Thorkell, the Eternal Warrior]] is described as an "ascendant" of Tempus — a warrior who has transcended ordinary limits through devotion to the god. He chooses to remain in the [[Arena]] of [[Calimsharn]], seeking worthy opponents.
+[[Thorkell, the Eternal Warrior]] is described as an "ascendant" of Tempus — a warrior who has transcended ordinary limits through devotion to the god. He chooses to remain in the [[Arena of the Desert]] of [[Calimsharn]], seeking worthy opponents.

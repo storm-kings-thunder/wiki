@@ -1,1 +1,1 @@
-"Son" of the [[Lady of Blood]].
+A massive humanoid who, despite his vocabulary, maintains a childlike mentality. He is the bodyguard and "son" of the [[Lady of Blood]].

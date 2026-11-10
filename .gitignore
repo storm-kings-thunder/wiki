@@ -15,3 +15,5 @@ replit.nix
 !.dev.vars.example
 .env*
 !.env.example
+/00 - Revisão privada.md
+/.trash/

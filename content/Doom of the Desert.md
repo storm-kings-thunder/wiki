@@ -1,5 +1,3 @@
-An ancient and powerful dragon who has ruled the wastelands of the desert for hundreds, if not thousands, of years. When the [[Lords of Calimsharn]] fought it for dominance over the [[Desert]], tales say it retreated into the [[Desert]]'s depths after being wounded.
+An ancient and powerful dragon said to have ruled the [[Desert]] for centuries, if not millennia. The founding [[Lords of Calimsharn]] wounded it during their struggle to establish the city, forcing it to retreat into the depths of the Desert.
 
-According to the [[Lord of Knowledge]], one of the giant relics was located in [[Askor]], in the Doom of the Desert area. The site is heavily guarded by dragons.
-
-The Doom of the Desert, in the form of a dragon statue in the entrance of [[Askor]], warned that vengeance would come in the future.
+According to the [[Lord of Knowledge]], [[Askor]] lies within its territory. Following the [[Seekers]]' heist there, the dragon appeared in the form of the blue dragon statue at the entrance and warned of vengeance to come.

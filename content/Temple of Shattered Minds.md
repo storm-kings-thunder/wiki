@@ -1,10 +1,15 @@
-The Temple of Shattered Minds is the ruined ziggurat deep in the northern salt marsh of the Border Mire. Built long ago by an exile elven cult that abandoned spirit-worship, the temple was later forgotten — until Karahl-Guhl and his thralls took refuge there.
+The Temple of Shattered Minds is a ruined ziggurat deep in the northern salt marsh of the [[Border Mire]], near [[Alkai Tor]]. It served as [[Karahl-Guhl]]'s lair, prison, and laboratory during his attacks on the surrounding settlements.
 
-Karahl-Guhl used the temple to hold captives and perform psychic experiments, breaking minds and creating thralls. The Seekers mounted a rescue and confronted the illithid in the temple's crumbling halls, freeing some prisoners and ending much of the illithid's immediate threat.
+## History
 
-Notable figures associated with the temple
-- **Karahl-Guhl** — the illithid who made the ziggurat his lair. His mind, damaged by grief after his companion Zaxab was slain, was the source of the hostage crisis in Alkai Tor.
-- **Thonot** — a psychic quaggoth who managed to free herself from Karahl-Guhl's domination thanks to latent psychic talent. Thonot provided key intelligence to the Seekers and now has a tenuous alliance with Mystic Howling-Gale.
+The temple was built centuries ago by an exiled elven sect that abandoned spirit-worship in favour of knowledge, logic, and reason. Their order eventually collapsed, leaving the ziggurat forgotten and occupied by other creatures.
 
-History
-The ziggurat predates the recent events by centuries. Its creators were an elven sect who valued knowledge and reason; over time their order collapsed and the temple fell into ruin and use by other creatures.
+Karahl-Guhl later established himself in the ruins with his thralls. He imprisoned abducted villagers here and subjected them to psychic experiments intended to break their minds and create obedient servants.
+
+The [[Seekers]] entered the temple to rescue the captives and confronted Karahl-Guhl in its crumbling halls. They defeated the illithid and freed some of his prisoners and thralls.
+
+## Aftermath
+
+[[Thonot]], a psychic quaggoth whose latent abilities allowed her to escape Karahl-Guhl's domination, provided intelligence to the Seekers. She subsequently formed a tenuous alliance with [[Mystic Howling-Gale]].
+
+After his rescue, Howling-Gale began establishing a mystic order in the ruins, supported by Siobhan and other surviving allies from Alkai Tor.

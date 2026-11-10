@@ -13,3 +13,5 @@ The place which spawned the corruption. It was originally a noble house belongin
 In 1455 DR, the hag [[Gertrude]] infiltrated the mansion disguised as an advisor. Throughout the years, she managed to corrupt the General Monthartas and led him to commit terrible deeds. When he sacrificed his daughter, the curse became completed and turned the mansion into an aberration of necromantic energies.
 
 In 1486 DR, the [[Seekers]] managed to kill [[Gertrude]] inside the mansion, and then destroy the crystal she created to spread the corruption
+
+For the Seekers' involvement, see [[Arc - The Corruption of Neverwinter Woods]].

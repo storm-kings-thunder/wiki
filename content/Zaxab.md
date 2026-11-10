@@ -1,24 +1,13 @@
-
-Zaxab was a powerful mind flayer and the long-time companion of [[Karahl-Guhl]]. The two shared a rare and intimate psychic bond that led to their exile from their Underdark enclave. Zaxab's death during an ambush outside Alkai Tor shattered that bond and set the events of 1486 DR into motion.
+Zaxab was a powerful illithid and the long-time companion of [[Karahl-Guhl]]. His death at the hands of [[Alkai Tor]]'s defenders shattered their psychic bond and drove Karahl-Guhl into a campaign of vengeance against the surrounding settlements in 1486 DR.
 
 ## Background
 
-Alongside Karahl-Guhl, Zaxab was a feared figure in the Underdark, commanding thralls and wielding devastating psychic power. The pair's close connection — referred to by them as "my Own One" — made other illithids uncomfortable and eventually resulted in their exile.
+Zaxab and Karahl-Guhl were feared members of an illithid enclave in the [[Underdark]], commanding thralls and wielding formidable psychic power. They shared an unusually intimate psychic bond, referring to one another as “my Own One.” Their connection unsettled the other illithids and eventually led to their exile.
 
-After fleeing the Underdark, Zaxab and Karahl-Guhl surfaced in the Border Mire with only a few dozen thralls: kuo-toa, quaggoths, and an umber hulk among them. They attempted to find a foothold on the surface, but conflict with Alkai Tor's defenders proved fatal for Zaxab.
+The pair emerged into the [[Border Mire]] with a few dozen thralls, including kuo-toa, quaggoths, and an umber hulk. Their attempts to establish themselves on the surface brought them into conflict with Alkai Tor.
 
 ## Death
 
-During a clash with elven defenders from Alkai Tor, Zaxab was killed — struck down by three shots to the head. Karahl-Guhl attempted to reach his companion in mind and in body, but felt only a vast psychic emptiness where Zaxab's mind had been. The traumatized Karahl-Guhl fled, carrying what remained of his Own One until the mire swallowed Zaxab's corpse.
+During a clash with elven defenders outside the village, Zaxab was killed by three shots to the head. Karahl-Guhl tried to reach his companion through their psychic connection but found only emptiness. He fled carrying Zaxab's remains until the mire swallowed the body.
 
-Zaxab's death proved catastrophic for Karahl-Guhl's sanity; it fractured his mind and drove him to a campaign of vengeance that included the kidnapping of villagers and cruel experiments at the nearby ruined ziggurat.
-
-## Legacy
-
-Zaxab's memory is central to understanding Karahl-Guhl's motives. His death is mentioned in survivor accounts collected by the [[Seekers|Seekers]] and forms the emotional core of the illithid's descent into madness.
-
-## See also
-- [[Karahl-Guhl]]
-- [[Alkai Tor]]
-- [[Temple of Shattered Minds]]
-- [[Seekers]]
+The loss fractured Karahl-Guhl's mind. He subsequently occupied the [[Temple of Shattered Minds]], launching raids and abducting villagers for psychic experiments.

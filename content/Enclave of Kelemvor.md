@@ -11,3 +11,5 @@ In the end, only [[Yinsaren]] and [[Ellan Mera]] survived — though both were b
 The [[Seekers]] eventually discovered the long-rumored enclave and, after facing many terrible creatures — including the corrupted golem (with [[Willow Margaster|Willow]] dying in battle against [[Yinsaren]]) — they confronted the corrupted [[Ellan Mera]]. As the [[Seekers]] fought the transformed archmage and her wounds deepened, the seals that kept the creature imprisoned broke, and it was freed. 
 
 Nothing the [[Seekers]] did could stop its escape. With [[Yinsaren]] in its grasp, the entity vanished from the ruins.
+
+For the Seekers' involvement, see [[Arc - The Enclave of Kelemvor]].

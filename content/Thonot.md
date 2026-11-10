@@ -1,0 +1,3 @@
+Thonot is a psychic quaggoth formerly enthralled by [[Karahl-Guhl]] at the [[Temple of Shattered Minds]]. Her latent psychic abilities allowed her to break free of his domination and provide valuable intelligence to the [[Seekers]] during their efforts to rescue the captives.
+
+Following Karahl-Guhl's defeat, she formed a tenuous alliance with [[Mystic Howling-Gale]], who began establishing a mystic order in the ruined temple.

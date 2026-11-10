@@ -1,9 +1,7 @@
-Ancient dwarven ruins in the [[Desert]]. [[Felguros]]'s former lair keeping a major dragon horde guarded by two blue dragons.
+Askor is a site of ancient dwarven ruins in the [[Desert]] and the former lair of [[Felguros]]. His vast treasure hoard remains there, guarded by two blue dragons. According to the [[Lord of Knowledge]], the site also holds one of the giant relics sought by the [[Seekers]].
 
-The site is approached through monumental gates marked by a blue dragon statue and subterranean passages.
+Monumental gates marked by a blue dragon statue lead into subterranean passages. An inner shrine houses an obsidian altar shaped like a pyramid, dedicated to [[Dumathoin, God of Buried Secrets|Dumathoin]].
 
-Its inner shrine contains an obsidian pyramid altar to [[Dumathoin, God of Buried Secrets|Dumathoin]].
+The Seekers arrived in the area by teleportation. Before entering the ruins, they encountered a caravan including [[Elatian]], a red-haired man, and three guards transporting a device capable of launching weighted nets.
 
-The party reached the area by teleportation and, before entering the ruins, encountered a caravan with [[Elatian]], a red-haired man, and three guards transporting a device capable of launching weighted nets.
-
-After a successful heist in the area, a teleportation attempt failed to reach [[Calimsharn]] and instead returned the group to Askor's gates.
+After a successful heist, the party attempted to teleport to [[Calimsharn]], but instead found themselves back at Askor's gates. The [[Doom of the Desert]], appearing through the dragon statue at the entrance, warned of vengeance to come.

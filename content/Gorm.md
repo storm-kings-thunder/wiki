@@ -9,3 +9,5 @@ After his "death," the party continued their journey east and discovered that th
 He returned alive once again to fight [[Seekers]] shortly after their escape from the Enclave of Kelemvor. He was quickly defeated again, but this showed that Gorm is apparently an extremely powerful and ancient revenant who will not stop returning stronger than before until Morrigan dies.
 
 During one of [[Seekers]]' journeys through the Desert, they saw Gorm following them in the distance. Thankfully, the Crawling Disease saw Gorm as a vulnerable prey and attacked him, allowing the group to continue on their journey.
+
+For the Seekers' involvement, see [[Arc - The Erasure of Nightstone]].

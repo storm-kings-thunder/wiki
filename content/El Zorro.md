@@ -1,1 +1,1 @@
-A flamboyant gladiator in the [[Arena]] who cuts an unmistakable figure: a muscular, masked orc who fights bare-chested. He approaches combat with theatrical flair, driven by an zealous dedication to his personal brand of "shining justice."
+A flamboyant gladiator in the [[Arena of the Desert]] who cuts an unmistakable figure: a muscular, masked orc who fights bare-chested. He approaches combat with theatrical flair, driven by an zealous dedication to his personal brand of "shining justice."

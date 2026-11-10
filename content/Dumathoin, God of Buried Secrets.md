@@ -9,4 +9,4 @@ tags:
 **Province**: Buried secrets
 **Symbol**: Gemstone in a mountain
 
-A dwarven deity represented in [[Askor]] by a heavy obsidian pyramid shrine.
+A dwarven god of buried secrets. An inner shrine in the ancient dwarven ruins of [[Askor]] contains a heavy obsidian altar shaped like a pyramid, dedicated to him.
