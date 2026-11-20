@@ -1,0 +1,3 @@
+Kralgar Bonesnapper was the chief of the [[Griffon Tribe]]. He took [[Ragnar, the Red|Ragnar]] under his wing, taught him to fight and lead, and groomed him as his successor. By the time the Griffon Tribe had risen to prominence among the barbarian tribes, Kralgar had set his sights on conquering one of the great cities of the Sword Coast.
+
+In 1470 DR, despite Ragnar's objections, Kralgar assembled the [[Great Barbarian Horde]] and marched on [[Silverymoon]]. His army razed villages along the way, but lost most of its warriors in the [[Battle for Silverymoon]]. The survivors withdrew, leaving the Griffon Tribe weakened for years to come.

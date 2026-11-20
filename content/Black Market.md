@@ -1,21 +1,13 @@
-An underground market located in [[Luskan, the city of Sails|Luskan]] — the only black market on the Sword Coast that is simultaneously illegal and approved by the government. While it is a shady cover for the [[Pirate Lords]]' activities, the market also serves as a neutral meeting ground for most factions in Luskan, even ones that are enemies to the [[Pirate Lords]]. While the reason for this is unknown, the fact that they profit from all transactions in the market is probably one of them.
+The Black Market is a hidden underground trading hub in [[Luskan, the city of Sails|Luskan]]. Officially illegal, it operates with the approval of the [[Pirate Lords]], who profit from every transaction. It also serves as neutral ground for the city's factions, including enemies of the council.
 
-It is a terrible place where slaves, drugs, exotic creatures, and cursed magical items are sold to nobles, criminals, and pirates.
-
-## Architecture
-
-Located in a secret underground area of Luskan, it is composed of multiple market stalls, shady taverns, well-decorated auction rooms, and even a small gladiatorial arena.
+Its stalls, taverns, lavish auction rooms, and gladiatorial arena draw nobles, criminals, and pirates. Slaves, drugs, exotic creatures, and cursed magic items are traded there. A black [[Zhentarim]] ring can establish a buyer's connections and open negotiations.
 
 ## History
 
-The black market has existed long before the [[Pirate Lords]], but only in 1420 DR did it become the powerful council-sponsored space it is today.
+The market predates the Pirate Lords but became a council-sponsored institution in 1420 DR.
 
-In 1486 DR, the group was sent by [[Don Tigre]] to examine the black market and managed to plant one of the clan's agents as one of the market sellers. Additionally, the monk Zenvalros managed to release a powerful barbarian named Ragnar, the Red from gladiatorial service in the pit, after defeating Ragnar in combat.
+In 1486 DR, [[Don Tigre]] sent the [[Seekers]] to investigate the market. They secured a place for one of his agents among its vendors and purchased the contract to the [[Extradimensional Mansion]]. [[Zenvalros]] defeated [[Ragnar, the Red]] to become [[Champion of the Pit]], then used his winnings to buy Ragnar's freedom. During the visit, [[Felguros]] attempted to steal from the market and [[Red, the Kid|Red]] punched an auctioneer, nearly causing a diplomatic incident.
 
-The "Halfling" Felguros and Redd the Kidd almost caused a diplomatic incident — the former by attempting to steal from the market and the latter by punching the auctioneer.
+During the [[Red Wizards of Thay]]'s takeover of Luskan, the Seekers met [[Whisper]], a disguised drow shopkeeper who claimed to be their ally.
 
-It has been identified as a place where a black [[Zhentarim]] ring can be used to prove contact and negotiate trade.
-
-During the [[Red Wizards of Thay|Red Wizards]]' takeover of [[Luskan, the city of Sails|Luskan]], the [[Seekers]] met [[Whisper]] in one of its shops. She claimed alliance with the party.
-
-[[Taerl]] later offered four ships and temporary crews to [[Don Tigre]]'s clan in exchange for a partnership with [[Red, the Kid|Red]] that would allow Taerl to bring some of his business into the market.
+Red later negotiated a partnership with [[Taerl]], who offered Don Tigre's clan four ships and temporary crews in exchange for access to business opportunities in the market.

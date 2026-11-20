@@ -1,0 +1,3 @@
+The Harvest Festival is a celebration held in [[Neverwinter]]'s [[Docks District]].
+
+In 1486 DR, the [[Killer Clowns of Waterdeep]] used their circus act as cover for an attempt to assassinate [[Baron Rikkler]], a visiting noble from [[Bryn Shander]]. The plot originated within [[Don Tigre]]'s clan and was intended to provoke a war between Bryn Shander and Neverwinter. [[Razzles]] warned the [[Seekers]], who foiled the attempt.

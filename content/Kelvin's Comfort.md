@@ -5,4 +5,4 @@ The one Ten-Towns specialty of note is a treacly mead from Good Mead, a neighbor
 
 ## Denizens
 
-Kelvin's Comfort was owned by shield dwarf [[Ogden Flamebeard]] sometime after the War of the Silver Marches. A frequent patron was [[Baric Nylef]] while he searched for a Dwarven criminal, who was known to be addicted to Flamebeard's Firebrandy.
+Kelvin's Comfort was owned by shield dwarf [[Ogden Flamebeard]] sometime after the War of the Silver Marches. A frequent patron was [[Sir Baric Nylef]] while he searched for a Dwarven criminal, who was known to be addicted to Flamebeard's Firebrandy.

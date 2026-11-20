@@ -1,1 +1,3 @@
-An apparently dangerous intelligence of stellar origin, said to be contained in [[Illusk's Vault]]. According to [[Darvan]], the drow benefit from it, but it must not escape. Its precise nature is unknown.
+A creature of stellar origin imprisoned in [[Illusk's Vault]], whose energy powers all of [[Illusk]]'s machines. According to [[Darvan]], the drow benefit from it, but it must not escape.
+
+When rebellious officials sealed [[Hardan Voss]] inside the vault, the creature fused with him and began feeding on his consciousness. The fused being emerged when [[Red, the Kid|Red]] opened the vault, displaying the ability to open fractures in reality.

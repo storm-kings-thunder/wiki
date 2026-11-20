@@ -1,0 +1,3 @@
+The Antler King helped defend [[Silverymoon]] during the [[Battle for Silverymoon]] in 1470–1471 DR. As the [[Mad Queen]] called on the ancient fey lords bound by pact to the city, he confronted the [[Runespeaker]], leader of the [[Calamity]].
+
+The Antler King suffered severe wounds in the duel but drove the Runespeaker off. The Calamity and the remnants of the [[Great Barbarian Horde]] withdrew, leaving Silverymoon standing.

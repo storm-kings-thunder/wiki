@@ -1,0 +1,3 @@
+The Cult of Tiamat was an alleged religious group among the kobold tribes beneath [[Waterdeep]]. In 1483 DR, the [[Black Talon]] warned the city that the kobolds were organizing in worship of [[Tiamat]].
+
+Paladins of the [[Order of the Golden Lion]] joined the Black Talon and a small city force in destroying the supposed cult. The victory earned the Black Talon considerable fame, but rumors persisted that the kobolds had never worshipped Tiamat.

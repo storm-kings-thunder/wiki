@@ -1,0 +1,5 @@
+The Beached Leviathan is a popular inn and tavern in [[Neverwinter]]'s [[Blacklake District]], built inside a ship that ran aground during a storm before 1479 DR. Its former pirate captain, [[Harag|Harrag]], converted the wreck with the patronage of [[Dagult Neverember]], who cleared his criminal record in exchange for political support.
+
+The tavern attracts merchants, smugglers, and anyone seeking information or a discreet meeting. Its three floors retain nautical names. The Hold houses the kitchen and bar, the Quarters provides nine rooms, two suites, and a mid-sized room, and the Deck offers seating and private parlours.
+
+In 1486 DR, the [[Seekers]] stayed here and entered a gambling tournament won by Harrag himself. During [[Grothgar]]'s rampage, Harrag helped the party repel an attack that badly damaged the tavern. [[Legit Larry]] later helped rebuild it using his aerokinetic powers, and Harrag hosted a small celebration with the Seekers, Larry, and [[Gnobbar]].

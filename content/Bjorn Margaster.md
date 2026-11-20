@@ -1,4 +1,3 @@
-The fourth child of the [[Margaster Family]], a strong but dim-witted warrior who ruled through fear and brute force.
-Bjorn rose to lead the [[Black Talon]], but his arrogance proved fatal — [[Xamlyn Margaster|Xamlyn]] and [[Alaeros Margaster|Alaeros]] ordered his own subordinates to betray him during the tavern assault.
+Bjorn Margaster was the fourth child of the [[Margaster Family]] and leader of the [[Black Talon]]. A strong but dim-witted warrior, he commanded through fear and brute force.
 
-He was the fourth and final sacrifice for the summoning of the [[Four Kings]].
+In 1486 DR, Bjorn led the Black Talon in an attack on the tavern where the [[Seekers]] were staying. Unknown to him, [[Xamlyn Margaster|Xamlyn]] and [[Alaeros Margaster|Alaeros]] had ordered his subordinates to kill him if the attempt on [[Willow Margaster|Willow]]'s life failed. His own followers betrayed him during the assault, making him the fourth and final sacrifice used to summon the [[Four Kings]].

@@ -1,0 +1,3 @@
+Champion of the Pit is a gladiatorial title contested in the arena of [[Luskan, the city of Sails|Luskan]]'s [[Black Market]]. The current champion is [[Zenvalros]], who claimed the title in 1486 DR by defeating [[Ragnar, the Red|Ragnar]], the reigning champion.
+
+Ragnar earned his nickname fighting in the Pit as an enslaved gladiator. After the bout, Zenvalros used his prize money to buy Ragnar's freedom.

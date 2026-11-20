@@ -1,3 +1,3 @@
-Markham Southwell is the sheriff of [[Bryn Shander]]. A man of few words, he is devoted to protecting the town's inhabitants, judges others by their actions, and rarely reveals his emotions.
+Markham Southwell is the sheriff of [[Bryn Shander]]. Appointed by Speaker [[Duvessa Shane]], he trains the town's militia and keeps the peace. A man of few words, he rarely shows his feelings and judges people by their actions. The safety of the townsfolk is his first concern.
 
-In 1485 DR, the [[Seekers]] brought him news that his sister had been killed by goblins in [[Nightstone]]. He rewarded them with a substantial sum of gold for delivering the news. Later, he was present at the town hall when Frost Giants attacked Bryn Shander.
+In 1485 DR, the [[Seekers]] brought Markham word that goblins had killed his sister in [[Nightstone]]. He paid them a substantial reward in gold for bringing him the news. Later that year, he was at the town hall when frost giants attacked Bryn Shander in search of [[Artus Cimber]] and the [[Ring of Winter]].

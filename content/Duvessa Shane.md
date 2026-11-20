@@ -1,7 +1,5 @@
-Duvessa Shane is the **Speaker of Bryn Shander** and leader of the [[Ten Towns]]' council. She resides at the [[Speaker's Palace]].
+Duvessa Shane is the Speaker of [[Bryn Shander]] and leads the council of the [[Ten Towns]]. She lives at the [[Speaker's Palace]] and appointed [[Markham Southwell]] as the town's sheriff.
 
-The daughter of a Waterdhavian trader and a woman of [[Icewind Dale]], Duvessa inherited her mother's talent for negotiation and her father's charm. She is renowned for her tenacity — she does not give an inch in any argument or conflict — and believes the people of the Ten Towns can endure any storm.
+The daughter of a [[Waterdeep|Waterdhavian]] trader and a woman from [[Icewind Dale]], Duvessa inherited her father's charm and her mother's skill at negotiation. She rarely yields in a dispute and believes the people of the Ten Towns can weather any storm.
 
-She was in the council chamber when giants attacked [[Bryn Shander]] in 1485 DR.
-
-*Alignment: Lawful Good*
+In 1485 DR, Duvessa was in the council chamber when frost giants attacked Bryn Shander in search of [[Artus Cimber]] and the [[Ring of Winter]].

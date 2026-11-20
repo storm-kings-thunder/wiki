@@ -1,0 +1,3 @@
+The Cataclysm was the disaster that brought down the ancient empire of [[Netheril]]. According to [[Darvan]], it began in the sky: flying cities fell, and [[Illusk]] nearly sank into the depths of the earth.
+
+Illusk's survivors retreated into underground shelters. In the aftermath, [[Hardan Voss]] ruled the city with the advice of [[Father Rogers|The Stranger]], until rebellious officials imprisoned him in [[Illusk's Vault]].

@@ -1,0 +1,3 @@
+The Griffon Tribe rose to prominence among the barbarian tribes under [[Kralgar Bonesnapper]]. Its warrior-shamans trained [[Ragnar, the Red|Ragnar]] as a Totem Warrior, and Kralgar groomed him to succeed him as chief.
+
+In 1470 DR, Kralgar rallied the tribe and its allies into the [[Great Barbarian Horde]] and marched on [[Silverymoon]]. The horde lost most of its warriors in the [[Battle for Silverymoon]], weakening the tribe for years. The Griffon Tribe eventually recovered.

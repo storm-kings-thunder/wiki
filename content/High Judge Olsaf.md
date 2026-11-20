@@ -1,5 +1,3 @@
-The leader of the Hall of Justice in [[Neverwinter]], responsible for dealing punishment to any crime committed. Besides some prejudice against magic due to an unnatural scarring she received as a result of a spell, she has proven herself to be a capable judge and advisor to [[Dagult Neverember]].
+High Judge Olsaf is a halfling and a stoic follower of [[Tyr]]. She leads the Hall of Justice in [[Neverwinter]]'s [[Protector's Enclave]], where she hears criminal cases and advises [[Dagult Neverember]]. She is a capable judge, though she has mistrusted magic ever since a spell left her with unusual scars.
 
-In 1486 DR, Olsaf interrogated the group on their intentions with the city and Redd's apparent allegiance to [[Luskan]]. In the end, she found them to be innocent and let them go under close probation. She later repelled [[Grothgar]]'s attack on the Hall of Justice.
-
-Female halfling. Alignment: Lawful Good.
+In 1486 DR, Olsaf questioned the [[Seekers]] about their intentions in Neverwinter and [[Red, the Kid|Red]] suspected allegiance to [[Luskan, the city of Sails|Luskan]]. She cleared the group of wrongdoing but kept them under close watch after their release. She later repelled [[Grothgar]]'s attack on the Hall of Justice during his rampage through the city.

@@ -1,7 +1,6 @@
 ---
 aliases:
   - Juga
-  - The Herald
 ---
 # General Info
 

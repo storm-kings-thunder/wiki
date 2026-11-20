@@ -1,12 +1,13 @@
-Originally a power-hungry adventuring group, Black Talon gained fame by warning [[Waterdeep]] of a supposed rising cult to Tiamat among the kobold tribes underground. With the help of paladins from the [[Order of the Golden Lion]] and a small city army, they destroyed this threat. However, rumors persist that the kobolds were not truly worshipping Tiamat.
+The Black Talon was a power-hungry adventuring company that gained fame by exposing a supposed cult of [[Tiamat]] among the kobold tribes beneath [[Waterdeep]]. With support from paladins of the [[Order of the Golden Lion]] and a small city force, they destroyed the alleged cult. Rumors persisted that the kobolds had never worshipped Tiamat.
 
-Later, the group was recruited by the [[Margaster Family]] as their elite force. Over the years, they were used to eliminate the family's enemies and to secretly maintain the illusion of [[Sir Egan]]'s invulnerability—for example, by slaying a dragon before his arrival.
+The [[Margaster Family]] later recruited the company as an elite force under [[Bjorn Margaster]]. They eliminated the family's enemies and secretly staged [[Sir Egan]]'s heroic exploits, once killing a dragon before he arrived to preserve his reputation for invulnerability.
 
-In 1486 DR, Black Talon attacked the tavern where the [[Seekers]] were staying, aiming to eliminate them as a threat to the [[Margaster Family|Margasters]]. The attack failed, and the mercenary group was destroyed.
+In 1486 DR, the Black Talon assaulted the tavern where the [[Seekers]] were staying. The attack failed, and the company was destroyed. During the assault, Bjorn's own followers betrayed him on the Margasters' orders, making him the final sacrifice used to summon the [[Four Kings]].
 
-Members included:
-- [[Bjorn Margaster]]
-- [[Ravus]]
-- Unknown Storm Barbarian
-- Unknown Blade Dancer
-- Unknown Divine Archer (secretly ordered by the [[Margaster Family|Margasters]] to kill [[Bjorn Margaster]] if their assassination attempt on [[Willow Margaster|Willow]] failed, thus fulfilling the necessary sacrifices regardless)
+## Members
+
+- [[Bjorn Margaster]], the company's leader.
+- [[Ravus]].
+- An unnamed storm barbarian.
+- An unnamed blade dancer.
+- An unnamed divine archer, secretly ordered to kill Bjorn if the attempt on [[Willow Margaster|Willow]]'s life failed, ensuring the final sacrifice regardless of the outcome.

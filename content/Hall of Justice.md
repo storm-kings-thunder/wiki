@@ -1,0 +1,5 @@
+The Hall of Justice is [[Neverwinter]]’s temple of Tyr and the seat of [[High Judge Olsaf]], who hears criminal cases and advises [[Dagult Neverember]]. Built of stone, iron, and wood, the temple can accommodate giants, and its great hall is large enough for dragons to rest in.
+
+The temple stood in the old City Core before [[Mount Hotenow]] erupted in 1451 DR. During the rebuilding of the late 1470s DR, it was incorporated into Neverember’s palace in the [[Protector's Enclave]] to help secure the city’s seat of government. The Hall is affiliated with the [[Order of the Golden Lion]] in [[Waterdeep]].
+
+In 1486 DR, Olsaf questioned the [[Seekers]] about their intentions in Neverwinter and [[Red, the Kid|Red]]'s suspected ties to [[Luskan, the city of Sails|Luskan]]. She later defended the Hall against [[Grothgar]] during his rampage through the city.

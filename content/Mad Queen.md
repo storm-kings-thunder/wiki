@@ -1,0 +1,3 @@
+The Mad Queen was one of [[Silverymoon]]'s defenders during the [[Battle for Silverymoon]] in 1470–1471 DR. With the city on the verge of falling, she invoked its ancient pact with the fey lords and called them to its defense.
+
+The fey threw the invading forces into disarray while the [[Antler King]] fought and drove off the [[Runespeaker]]. The [[Great Barbarian Horde]] and the [[Calamity]] withdrew, leaving Silverymoon standing.

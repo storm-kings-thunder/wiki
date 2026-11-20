@@ -1,5 +1,9 @@
-Ten Towns is a loose confederation of ten frontier settlements in [[Icewind Dale]], formed around three frozen lakes: Maer Dualdon, Lac Dinneshere, and Redwaters. The towns' economies depend almost entirely on the fishing of knucklehead trout and the scrimshaw carved from its bones.
+---
+aliases:
+  - Ten-Towns
+---
+Ten Towns is a loose confederation of frontier settlements in [[Icewind Dale]], clustered around three lakes known as Maer Dualdon, Lac Dinneshere, and Redwaters. The settlements depend on the knucklehead trout they catch and the scrimshaw they carve from its bones.
 
-The ten settlements are: [[Bryn Shander]] (the largest, the only one not on a lake), Bremen, Caer-Dineval, Caer-Konig, Dougan's Hole, Easthaven, Good Mead, Lonelywood, Targos, and Termalaine.
+[[Bryn Shander]] is the largest settlement and the only one without a lakeshore. The other nine are Bremen, Caer-Dineval, Caer-Konig, Dougan's Hole, Easthaven, Good Mead, Lonelywood, Targos, and Termalaine.
 
-The towns are governed collectively by a council of speakers; [[Bryn Shander]]'s speaker, [[Duvessa Shane]], leads the council and is considered the de facto voice of Ten Towns. The confederation bickers constantly but unites against outside threats.
+Each town elects a speaker to represent it on the council. [[Duvessa Shane]], the speaker of Bryn Shander, leads the council and acts as the confederation's unofficial spokesperson. The towns often squabble among themselves but unite when faced with an outside threat.

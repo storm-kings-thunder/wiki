@@ -1,19 +1,11 @@
-A siege fought at [[Silverymoon]] in 1470–1471 DR. Type: Land siege.
+The Battle for Silverymoon was a land siege fought in 1470–1471 DR between [[Silverymoon]], the [[Great Barbarian Horde]], and [[Calamity]].
 
-In 1470 DR, Kralgar Bonesnapper, the leader of the powerful Griffon tribe, reunited thousands of barbarians, war beasts and every ally he could find to invade [[Silverymoon]] and complete his life-long ambition to conquer one of the civilized cities.
+In 1470 DR, [[Kralgar Bonesnapper]] rallied thousands of warriors, war beasts, and allies to fulfil his lifelong ambition of conquering a city. His horde razed villages on its march to [[Silverymoon]], but the city's defenders halted the assault. Mages from the [[Arcane Academy]] cut down hundreds of attackers, while elven warriors bearing arcane tattoos held the line. An elite force of elven nobles empowered by fey magic turned the battle in Silverymoon's favour.
 
-When this great army rampaged across the countryside, destroying a great number of villages, their arrogance grew, believing the battle was already won. When they finally reached [[Silverymoon]], the easy victory they sought turned into a terrible battle. Powerful mages from their arcane academy, each a master of a school of magic, defeated hundreds with powerful spells. Hundreds of powerful tattooed elven warriors joined the battle, their arcane markings granting them great martial power. When the elite warriors finally joined — powerful elven nobles bound by powerful fey energy — the battle turned in [[Silverymoon]]'s favor.
-
-As the very beasts the barbarian army commanded turned against them, a third army joined the battle: [[The Calamity]]. Being the most powerful outlaw army on the Sword Coast, the battle turned into chaos as their rune-empowered soldiers used the opportunity to raid and sabotage both [[Silverymoon]] and the Griffon Clan. After thousands of deaths, only the emergence of the Mad Queen and the Antler King of [[Silverymoon]] prevented the destruction of the city.
-
-As the Mad Queen called upon the ancient fey lords bound by a pact to [[Silverymoon]], the Antler King fought the very leader of [[The Calamity]]: the [[Runespeaker]]. While the summoned fey lords caused destruction and chaos among the enemy forces, the Antler King eventually managed to drive off the [[Runespeaker]], despite being severely wounded in the process. With both invading armies suffering heavy losses, the remnants smartly retreated — the barbarian army losing most of their soldiers, and [[The Calamity]] escaping with only moderate losses.
-
-## Outcome
-- [[Silverymoon]] established as one of the great civilized powers.
-- The threat of the Griffon tribe temporarily nullified.
+As the horde's war beasts turned on their handlers, the [[Calamity]] entered the battle. Its rune-empowered soldiers raided and sabotaged both armies. With thousands dead and the city in danger of falling, the [[Mad Queen]] invoked Silverymoon's pact with the ancient fey lords. The fey threw the attackers into disarray while the Antler King drove off the [[Runespeaker]], suffering severe wounds in the duel.
 
 ## Aftermath
-- The rise in prominence of [[The Calamity]], for being the first outlaw army to fight against a city-sized army and leave with only minor losses.
-- An increase in hostility by remaining Barbarian Tribes and the eventual resurgence of the Griffon Tribe.
 
-**Belligerents:** [[Silverymoon]] vs. [[The Calamity]] vs. The Great Barbarian Horde
+Silverymoon held, strengthening its standing as one of the great powers of the North. Kralgar's horde lost most of its warriors and withdrew. The defeat broke the Griffon Tribe's strength for a time and deepened the surviving tribes' hostility. The Griffon Tribe later recovered.
+
+The Calamity withdrew with plunder and far fewer losses than the horde. Its ability to fight both sides and escape intact earned it a reputation as one of the Sword Coast's most formidable outlaw armies.

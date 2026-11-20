@@ -1,0 +1,3 @@
+The Great Barbarian Horde was an army raised in 1470 DR by [[Kralgar Bonesnapper]]. Despite the objections of his intended successor, [[Ragnar, the Red|Ragnar]], Kralgar rallied thousands of warriors, war beasts, and allies to fulfil his ambition of conquering [[Silverymoon]]. The horde razed villages across the countryside before laying siege to the city.
+
+During the [[Battle for Silverymoon]], the city's defenders held the line, the horde's war beasts turned on their handlers, and [[Calamity]] entered the battle and attacked both sides. The horde lost most of its warriors and withdrew. The defeat weakened the [[Griffon Tribe]] for a time, though the tribe eventually recovered.

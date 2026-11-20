@@ -1,1 +1,1 @@
-Erupted in 1451
+Mount Hotenow is a volcano in Neverwinter Wood, northeast of [[Neverwinter]]. In 1451 DR, Mount Hotenow erupted, which destroyed the foundations of the [[Docks District]], while much of the area that would become the [[Protector's Enclave]] survived. [[Dagult Neverember]] later made the Enclave his seat of power as he rebuilt the city.

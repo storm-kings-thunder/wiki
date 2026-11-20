@@ -1,9 +1,5 @@
-Beldora is an Illuskan human woman and a secret Harper agent operating in [[Bryn Shander]].
+Beldora is a secret agent of the [[Harpers]] in [[Bryn Shander]]. She poses as a homeless woman, earning coins by tending other people's campfires while listening to their conversations. Each day, she uses a sending stone to pass relevant information to her Harper contact.
 
-She poses as a homeless waif, earning coins by tending campfires for other folk. In truth she listens to all conversations around those fires and reports the relevant ones to her Harper contact once a day via a sending stone.
+Beldora enjoys telling lies, believing they make life more interesting, but her concern for ordinary people is sincere.
 
-Beldora enjoys telling lies, believing it makes life more interesting, but she is genuinely motivated to protect common people.
-
-In late 1485 DR, she was at the marketplace when giants attacked the city.
-
-*Alignment: Chaotic Good*
+In late 1485 DR, she was in the marketplace when frost giants attacked Bryn Shander in search of [[Artus Cimber]] and the [[Ring of Winter]].

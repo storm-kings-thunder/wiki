@@ -1,0 +1,3 @@
+The Council of Four is the ruling body of [[Baldur's Gate]]. Its four dukes govern one of the busiest ports on the Sword Coast, where wealthy merchants wield considerable political influence. The Council shares power in the city with the [[Flaming Fist]], which serves as its military.
+
+According to [[Inquisitor Valerius]], the city is currently under martial law. Its attention has turned inward as coordinated pirate attacks threaten the Sword Coast.

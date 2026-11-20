@@ -1,0 +1,3 @@
+The Tarmalune Trade House is a trading venue in [[Neverwinter]] that draws adventurers looking to buy and sell magic items. It operates an open-air auction post in the [[Protector's Enclave]] and stores its wares in a large warehouse in the Docks District. Its merchants stay out of local politics and trade with nobles and merchants from [[Waterdeep]].
+
+In 1486 DR, the travelling merchant [[Bale]] sold magic items at one of its auctions after the [[Seekers]] escorted him to Neverwinter. The Seekers bought several items there, including a mysterious pyramid that turned out to contain a treasure map pointing to an isolated island west of the Sword Coast.
